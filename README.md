@@ -298,23 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: Ask questions in GitHub Discussions
 - **Email**: Contact the maintainers directly
 
-## 🔮 Roadmap
-
-- [ ] Support for more LLM providers (Mistral, Cohere)
-- [ ] Advanced debiasing algorithms
-- [ ] Real-time bias monitoring
-- [ ] Web interface for analysis
-- [ ] Integration with popular ML frameworks
-
 ## 🧹 Repository Notes
-
-This repository has been cleaned up for optimal developer experience:
-
-- **🔒 Security**: Hardcoded API keys removed - use environment variables
-- **📦 Size**: Large datasets and checkpoint files removed (24GB+ saved)
-- **📁 Organization**: Files organized into logical directories
-- **🚫 Git**: Large files excluded from version control
-- **📚 Documentation**: Comprehensive guides for each component
 
 ### Data and Checkpoints
 - **Datasets**: Download instructions in `data/README.md`
