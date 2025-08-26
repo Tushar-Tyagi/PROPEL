@@ -286,14 +286,7 @@ black LLM_debias.py
 
 If you use this framework in your research, please cite:
 
-```bibtex
-@article{llm_position_bias_2024,
-  title={LLM Position Bias Analysis Framework},
-  author={Your Name},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
+(Under publication)
 
 ## 📄 License
 
