@@ -1,0 +1,25 @@
+{
+  "total_items": 4000,
+  "num_users": 200,
+  "num_categories": 15,
+  "avg_borda_score": 10.5,
+  "avg_position_change": -1.0,
+  "target_items_found": 200,
+  "category_performance": {
+    "autos": 9.499618320610688,
+    "entertainment": 9.364583333333334,
+    "finance": 9.72070895522388,
+    "foodanddrink": 10.46824644549763,
+    "health": 9.697267759562841,
+    "kids": 6.7,
+    "lifestyle": 8.809656652360516,
+    "movies": 9.98970588235294,
+    "music": 9.374705882352941,
+    "news": 11.124066719618746,
+    "sports": 11.703819840364881,
+    "travel": 11.147715736040608,
+    "tv": 8.994444444444444,
+    "video": 7.4510344827586215,
+    "weather": 8.896381578947368
+  }
+}

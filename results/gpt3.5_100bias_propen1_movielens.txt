@@ -1,0 +1,38 @@
+propensity 1: exp(a+b+c)
+
+================================================================================
+OUR METHOD EVALUATION RESULTS vs BENCHMARKS
+================================================================================
+
+Our Method Results:
+  Accuracy:    0.3500 ± 0.4770
+  NDCG@1:      0.3500 ± 0.4770
+  NDCG@5:      0.5346 ± 0.4042
+  NDCG@10:     0.5771 ± 0.3607
+  NDCG@20:     0.6188 ± 0.3013
+  Number of evaluations: 200
+
+Benchmark Results (Accuracy) - From Paper:
+Method          Movie Dataset  
+------------------------------
+Raw Output      0.2740±0.0593
+Bootstrapping   0.2537
+STELLA          0.2976
+Our Method      0.3500±0.4770
+
+Accuracy Comparison (Movie Dataset):
+----------------------------------------
+Our Method vs Raw Output:    +0.0760
+Our Method vs Bootstrapping: +0.0963
+Our Method vs STELLA:        +0.0524
+
+NDCG Analysis:
+----------------------------------------
+NDCG@1 = Accuracy: 0.3500
+NDCG@5:  0.5346 (152.7% of NDCG@1)
+NDCG@10: 0.5771 (164.9% of NDCG@1)
+NDCG@20: 0.6188 (176.8% of NDCG@1)
+
+Summary:
+✅ Our method outperforms STELLA by +0.0524 in accuracy
+📊 Additional insights from NDCG metrics available above
