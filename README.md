@@ -1,4 +1,5 @@
-# LLM Position Bias Analysis Framework
+# PROPEL: PROpensity-based-Position-bias-Elimination-for-LLMs
+LLM Position Bias Analysis Framework
 
 A comprehensive framework for detecting and correcting position bias in Large Language Model (LLM) based recommender systems. This project provides tools to analyze how position bias affects recommendation quality and implements debiasing strategies.
 
