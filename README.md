@@ -225,43 +225,6 @@ analyzer = LLMPositionBiasAnalyzer(
 )
 ```
 
-## 📈 Performance Optimization
-
-### Rate Limiting
-
-- Use appropriate API tier for your usage
-- Monitor API usage in OpenAI dashboard
-- Implement exponential backoff for errors
-
-### Memory Management
-
-- For large datasets, process in chunks
-- Use checkpoint system for long experiments
-- Monitor memory usage during processing
-
-## 🧪 Testing
-
-Run the test suite:
-
-```bash
-# Run all tests
-python -m pytest tests/
-
-# Run specific test
-python -m pytest tests/test_bias_analysis.py
-
-# Run with coverage
-python -m pytest --cov=LLM_debias tests/
-```
-
-## 📝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Development Setup
 
 ```bash
@@ -275,13 +238,6 @@ pre-commit install
 flake8 LLM_debias.py
 black LLM_debias.py
 ```
-
-## 📚 Documentation
-
-- **API Reference**: See docstrings in `LLM_debias.py`
-- **Examples**: Check the `experiment_*.ipynb` notebooks
-- **Research**: Review the analysis notebooks for methodology
-
 ## 🤝 Citation
 
 If you use this framework in your research, please cite:
