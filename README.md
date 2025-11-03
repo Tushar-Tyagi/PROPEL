@@ -292,11 +292,6 @@ If you use this framework in your research, please cite:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-- **Issues**: Report bugs and feature requests on GitHub
-- **Discussions**: Ask questions in GitHub Discussions
-- **Email**: Contact the maintainers directly
 
 ## 🧹 Repository Notes
 
