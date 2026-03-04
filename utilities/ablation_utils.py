@@ -1,6 +1,6 @@
 import time
 import numpy as np
-from typing import Dict, List
+from typing import Dict, List, Optional, Callable
 from collections import defaultdict
 from tqdm import tqdm
 from LLM_debias import LLMPositionBiasAnalyzer
@@ -11,7 +11,7 @@ class AblationAnalyzer(LLMPositionBiasAnalyzer):
         user_result: Dict,
         new_propensity_scores: Dict[int, float],
         aggregation_method: str
-    ) -> Dict:
+    ) -> Optional[Dict]:
         """Recompute a single user's results with new propensity scores."""
 
         raw_llm_data = user_result.get('raw_llm_data', [])
@@ -101,10 +101,10 @@ class AblationAnalyzer(LLMPositionBiasAnalyzer):
         self,
         N: int,
         formula: str = "inverse",
-        primacy_bias: float = None,
-        recency_bias: float = None,
-        middle_bias: float = None,
-        custom_function: callable = None
+        primacy_bias: Optional[float] = None,
+        recency_bias: Optional[float] = None,
+        middle_bias: Optional[float] = None,
+        custom_function: Optional[Callable] = None
     ) -> Dict[int, float]:
         """
         Create custom propensity scores using different formulas.
@@ -112,13 +112,15 @@ class AblationAnalyzer(LLMPositionBiasAnalyzer):
         propensity_scores = {}
 
         if formula == "inverse" and primacy_bias is not None:
+            safe_recency = 1.0 if recency_bias is None else recency_bias
+            safe_middle = 1.0 if middle_bias is None else middle_bias
             for pos in range(N):
                 if pos < int(0.25 * N):
                     weight = 1.0 / max(primacy_bias, 0.1)
                 elif pos >= int(0.75 * N):
-                    weight = 1.0 / max(recency_bias, 0.1)
+                    weight = 1.0 / max(safe_recency, 0.1)
                 else:
-                    weight = 1.0 / max(middle_bias, 0.1)
+                    weight = 1.0 / max(safe_middle, 0.1)
                 propensity_scores[pos] = weight
 
         elif formula == "linear":
@@ -151,7 +153,7 @@ class AblationAnalyzer(LLMPositionBiasAnalyzer):
         checkpoint_file: str,
         new_precalculated_bias: Dict[str, float],
         aggregation_method: str = "mean",
-        save_results_to: str = None
+        save_results_to: Optional[str] = None
     ) -> Dict:
         """
         Reapply debiasing using raw LLM outputs from checkpoint with new bias scores.
