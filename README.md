@@ -4,21 +4,26 @@ LLM Position Bias Analysis Framework: A comprehensive framework for detecting an
 
 ##  Project Overview
 
-Position bias occurs when users prefer items that appear earlier in recommendation lists, regardless of their actual relevance. This framework helps researchers and developers:
+Position bias occurs when users prefer items that appear earlier in recommendation lists, regardless of their actual relevance. Large Language Models (LLMs) used as recommender systems inherit this bias, favoring items in specific list positions (primacy, recency, and middle-position effects). 
 
-- **Detect position bias** in LLM-based recommender systems
-- **Measure bias impact** on recommendation quality metrics (NDCG, Accuracy)
-- **Implement debiasing strategies** using propensity scoring
-- **Evaluate debiasing effectiveness** across multiple datasets
+PROPEL is a **model-agnostic, training-free framework** that combines empirical bias profiling, inverse propensity weighting, and bias-aware aggregation to correct these position-dependent distortions. 
+
+By comparing observed top-k item frequencies against hypergeometric expectations across randomized candidate lists, PROPEL yields normalized bias coefficients fitted to a closed-form exponential propensity function. Multiple randomized LLM rerankings are then aggregated using inverse propensity weights to produce de-biased scores.
+
+### Key Highlights
+- **Detects & Quantifies position bias** in LLM-based recommender systems using hypergeometric expectations.
+- **Explainable mitigation** via explicit bias coefficients (Primacy, Recency, Middle) for full auditability.
+- **State-of-the-Art Performance**: Achieves up to **26.7% relative gains in NDCG@1** and **28% in NDCG@20**, significantly outperforming baselines like STELLA and standard Bootstrapping.
+- **Model-Agnostic & Training-Free**: Works seamlessly with black-box LLM APIs (GPT-3.5, GPT-4, GPT-4o, Claude).
 
 ##  Features
 
-- **Multi-dataset support**: MovieLens, Books, Music, News, Beauty, Steam
-- **Flexible LLM backends**: OpenAI GPT models, Claude, custom models
-- **Comprehensive evaluation**: NDCG@k, Accuracy, Bias scores, Propensity analysis
-- **Rate limiting**: Built-in API rate limiting with configurable tiers
-- **Batch processing**: Efficient parallel processing for large-scale analysis
-- **Checkpoint system**: Save and resume long-running experiments
+- **Multi-dataset support**: MovieLens-1M, Amazon Books, Amazon Music, Amazon Beauty, and Steam.
+- **Flexible LLM backends**: OpenAI GPT models, Claude, custom models.
+- **Comprehensive evaluation**: NDCG@1, NDCG@20, Accuracy, Bias scores, Propensity analysis.
+- **Rate limiting**: Built-in API rate limiting with configurable tiers.
+- **Batch processing**: Efficient parallel processing for large-scale analysis.
+- **Explainable Output**: Generates auditable inverse propensity scores and position-wise bias gradients.
 
 ##  Supported Datasets
 
@@ -225,6 +230,23 @@ analyzer = LLMPositionBiasAnalyzer(
 )
 ```
 
+### Ablation Studies (No Re-computation)
+
+You can analyze the effects of custom propensity scores and perform ablation studies without incurring additional LLM API costs by utilizing saved checkpoints:
+
+```python
+from utilities.ablation_utils import AblationAnalyzer
+
+analyzer = AblationAnalyzer(data=data, data_name='movie_lens', model='gpt-3.5-turbo', backend='openai')
+
+# Re-apply using uniform weights (ablation) or new bias values
+results = analyzer.reapply_debiasing_with_new_bias(
+    checkpoint_file='experiment_checkpoint.json',
+    new_precalculated_bias={'avg_primacy': 0.0, 'avg_recency': 0.0, 'avg_middle': 0.0},
+    aggregation_method='mean'
+)
+```
+
 ### Development Setup
 
 ```bash
@@ -242,7 +264,17 @@ black LLM_debias.py
 
 If you use this framework in your research, please cite:
 
-(Under publication)
+```bibtex
+@article{tyagi2026propel,
+  title={On the Correction of Position Bias in User Interfaces in LLM Based Recommendation Systems},
+  author={Tyagi, Tushar and Madisetti, Vijay},
+  journal={JACM},
+  volume={1},
+  number={1},
+  year={2026},
+  publisher={ACM}
+}
+```
 
 ##  License
 
