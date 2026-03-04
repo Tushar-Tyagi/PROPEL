@@ -2,7 +2,7 @@
 
 LLM Position Bias Analysis Framework: A comprehensive framework for detecting and correcting position bias in Large Language Model (LLM) based recommender systems. This project provides tools to analyze how position bias affects recommendation quality and implements explainable debiasing strategy PROPEL.
 
-## 🎯 Project Overview
+##  Project Overview
 
 Position bias occurs when users prefer items that appear earlier in recommendation lists, regardless of their actual relevance. This framework helps researchers and developers:
 
@@ -11,7 +11,7 @@ Position bias occurs when users prefer items that appear earlier in recommendati
 - **Implement debiasing strategies** using propensity scoring
 - **Evaluate debiasing effectiveness** across multiple datasets
 
-## 🚀 Features
+##  Features
 
 - **Multi-dataset support**: MovieLens, Books, Music, News, Beauty, Steam
 - **Flexible LLM backends**: OpenAI GPT models, Claude, custom models
@@ -20,7 +20,7 @@ Position bias occurs when users prefer items that appear earlier in recommendati
 - **Batch processing**: Efficient parallel processing for large-scale analysis
 - **Checkpoint system**: Save and resume long-running experiments
 
-## 📊 Supported Datasets
+##  Supported Datasets
 
 | Dataset | Description | Format | Special Notes |
 |---------|-------------|---------|---------------|
@@ -73,7 +73,7 @@ Position bias occurs when users prefer items that appear earlier in recommendati
    python -c "from LLM_debias import LLMPositionBiasAnalyzer; print('Installation successful!')"
    ```
 
-## 🔑 Configuration
+##  Configuration
 
 ### API Configuration
 
@@ -238,18 +238,18 @@ pre-commit install
 flake8 LLM_debias.py
 black LLM_debias.py
 ```
-## 🤝 Citation
+##  Citation
 
 If you use this framework in your research, please cite:
 
 (Under publication)
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## 🧹 Repository Notes
+##  Repository Notes
 
 ### Data and Checkpoints
 - **Datasets**: Download instructions in `data/README.md`
