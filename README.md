@@ -274,17 +274,7 @@ black LLM_debias.py
 
 If you use this framework in your research, please cite:
 
-```bibtex
-@article{tyagi2026propel,
-  title={On the Correction of Position Bias in User Interfaces in LLM Based Recommendation Systems},
-  author={Tyagi, Tushar and Madisetti, Vijay},
-  journal={JACM},
-  volume={1},
-  number={1},
-  year={2026},
-  publisher={ACM}
-}
-```
+`To be updated`
 
 ##  License
 
