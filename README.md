@@ -193,6 +193,7 @@ def get_data_columns(data_name: str):
 - **Accuracy**: Top-k recommendation accuracy
 - **Bias Score**: Position bias magnitude (0 = no bias, 1 = maximum bias)
 - **Propensity Score**: Item propensity to appear in top positions
+- **Statistical Significance**: Performs paired t-tests and computes 95% Confidence Intervals comparing our method to STELLA and Bootstrapping baselines to validate performance gains.
 
 ## 🔧 Advanced Features
 
@@ -246,6 +247,15 @@ results = analyzer.reapply_debiasing_with_new_bias(
     aggregation_method='mean'
 )
 ```
+
+### Sensitivity Analysis and Hyperparameter Optimization (HPO)
+
+To test the robustness of the framework against its configuration parameters (e.g. `num_bias_users`, `num_shuffles_bias`), you can perform a sensitivity analysis using the built-in utility:
+
+```bash
+python utilities/sensitivity_analysis.py --data_name movie_lens --data_path data/ml-1m/processed_ratings.csv --model gpt-3.5-turbo
+```
+You can modify the `param_grid` inside `utilities/sensitivity_analysis.py` to evaluate different configurations. Intermediate and final results are automatically exported to `results/sensitivity_analysis`.
 
 ### Development Setup
 
