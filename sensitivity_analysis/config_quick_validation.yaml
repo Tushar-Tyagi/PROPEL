@@ -1,0 +1,35 @@
+# Quick-validation config — for pipeline testing only.
+# Use config.yaml for paper results.
+# Estimated runtime: 20–30 min. Estimated cost: $4–8 (gpt-3.5-turbo).
+
+dataset: movielens-1m
+data_path: ../data/ml-1m         # relative to sensitivity_analysis/
+
+probing:
+  n_b_values: [5, 10, 20, 50]
+  shuffles_per_user: 2           # reduced from 50
+  top_k_percent: 0.10            
+  primacy_window: 0.25           
+  recency_window: 0.25           
+  list_size: 20                  
+  n_repeats: 3                   # reduced from 10
+  seeds: [0, 1, 2]                  # reduced from 10 seeds
+
+recommendation:
+  n_test_users: 5                # reduced from 250
+  test_seed: 42                  
+  candidate_list_size: 20        
+  n_shuffles: 2                  # reduced from 15
+
+openai:
+  model: gpt-3.5-turbo           # use cheaper model for validation
+  max_retries: 5
+  backoff_base_seconds: 2.0
+
+output:
+  results_dir: ../results/sensitivity/quick_validation/
+  cache_file: ../results/sensitivity/quick_validation/probing_sensitivity_raw.json
+  figure_pdf: ../results/sensitivity/quick_validation/fig7_probing_sensitivity.pdf
+  figure_png: ../results/sensitivity/quick_validation/fig7_probing_sensitivity.png
+  table_csv: ../results/sensitivity/quick_validation/probing_sensitivity_table.csv
+  log_file: ../results/sensitivity/quick_validation/run.log

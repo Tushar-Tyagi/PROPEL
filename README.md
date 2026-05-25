@@ -248,6 +248,10 @@ results = analyzer.reapply_debiasing_with_new_bias(
 )
 ```
 
+### Probing Sensitivity Analysis (N_b Sweep)
+
+A dedicated probing sensitivity analysis module is available in `sensitivity_analysis/` to evaluate the stability of bias coefficients and downstream NDCG across different numbers of probing users ($N_b$). See `sensitivity_analysis/README.md` for full instructions on running the analysis and generating publication-ready figures.
+
 ### Sensitivity Analysis and Hyperparameter Optimization (HPO)
 
 To test the robustness of the framework against its configuration parameters (e.g. `num_bias_users`, `num_shuffles_bias`), you can perform a sensitivity analysis using the built-in utility:

@@ -1,0 +1,39 @@
+# ============================================================
+# Probing Sensitivity Analysis — Configuration
+# ============================================================
+# Values used in the published paper are marked with [PAPER].
+# Seed 42 was used for the paper's original single-run results.
+# ============================================================
+
+dataset: movielens-1m
+data_path: ../data/ml-1m         # relative to sensitivity_analysis/
+
+probing:
+  n_b_values: [5, 10, 20, 50]
+  shuffles_per_user: 50          # [PAPER]
+  top_k_percent: 0.10            # [PAPER] top 10% of items treated as relevant
+  primacy_window: 0.25           # [PAPER] first 25% of list
+  recency_window: 0.25           # [PAPER] last 25% of list
+  list_size: 20                  # [PAPER] candidate list size for probing
+  n_repeats: 10                  # number of independent seeds per N_b
+  seeds: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+recommendation:
+  n_test_users: 250              # [PAPER]
+  test_seed: 42                  # [PAPER] seed for fixed test split
+  candidate_list_size: 20        # [PAPER]
+  n_shuffles: 15                 # [PAPER] N_S in the paper
+
+openai:
+  model: gpt-4o
+  max_retries: 5
+  backoff_base_seconds: 2.0
+  # OpenRouter is used as the backend; set OPENROUTER_API_KEY in env.
+
+output:
+  results_dir: ../results/sensitivity/
+  cache_file: ../results/sensitivity/probing_sensitivity_raw.json
+  figure_pdf: ../results/sensitivity/fig7_probing_sensitivity.pdf
+  figure_png: ../results/sensitivity/fig7_probing_sensitivity.png
+  table_csv: ../results/sensitivity/probing_sensitivity_table.csv
+  log_file: ../results/sensitivity/run.log
