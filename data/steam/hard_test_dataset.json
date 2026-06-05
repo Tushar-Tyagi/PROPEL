@@ -1,0 +1,8298 @@
+[
+  {
+    "user_id": "Neo",
+    "history": [
+      {
+        "title": "fault - milestone one",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "One Small Fire At A Time",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Maverick",
+    "history": [
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Always Sometimes Monsters",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "LawBreakers",
+      "genres": [
+        "Action"
+      ],
+      "price": 29.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Novibear",
+    "history": [
+      {
+        "title": "Super Killer Hornet: Resurrection",
+        "genres": [
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "A Valley Without Wind",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Wooden Sen'SeY",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Crayon Physics Deluxe",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Tenrow",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Wild Season",
+      "genres": [
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
+      "price": 16.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Jordan",
+    "history": [
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Tom Clancy's Ghost Recon\u00ae",
+        "genres": [
+          "Action"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "LawBreakers",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "notafan",
+    "history": [
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Ascendant",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "X-COM: Terror From the Deep",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Burn Zombie Burn!",
+        "genres": [
+          "Action"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Snakebird",
+        "genres": [
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Ziggurat",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "price": 14.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Lynx",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Overlord II",
+        "genres": [
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Ascendant",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Might &amp; Magic: Clash of Heroes",
+        "genres": [
+          "RPG",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Mark of the Ninja",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "PhoenixT1",
+    "history": [
+      {
+        "title": "Cut the Rope",
+        "genres": [
+          "Indie",
+          "Casual"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Crazy Machines: Golden Gears",
+        "genres": [
+          "Casual",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Ichi",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Return to Mysterious Island 2",
+        "genres": [
+          "Adventure",
+          "Casual"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Mini Golf Mundo",
+        "genres": [
+          "Casual"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "[the Sequence]",
+        "genres": [
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Rush for gold: California",
+        "genres": [
+          "Casual",
+          "Strategy"
+        ],
+        "price": 3.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Book Series - Alice in Wonderland",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Rose",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Umbrella Corps\u2122/Biohazard Umbrella Corps\u2122",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Legend of Kay Anniversary",
+        "genres": [
+          "Action",
+          "Adventure",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Piyapon",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "The Incredible Adventures of Van Helsing III",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Trine 2: Complete Story",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Warrior",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Need for Speed Undercover",
+        "genres": [
+          "Action",
+          "Racing"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Orion",
+    "history": [
+      {
+        "title": "SEGA Bass Fishing",
+        "genres": [
+          "Sports",
+          "Simulation"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Fingered",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.87,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Spectre",
+    "history": [
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Pinhead Larry",
+    "history": [
+      {
+        "title": "Vertical Drop Heroes HD",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Heroes &amp; Generals",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "\u4e47\u4e42\u3112\u5c3a\u5342 \u3112\u5344\u4e28\u531a\u531a",
+    "history": [
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "LawBreakers",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Deus Ex: Mankind Divided",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "price": 59.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Cam",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      },
+      {
+        "title": "Heroes &amp; Generals",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Dead Space\u2122 2",
+      "genres": [
+        "Action"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Maximus",
+    "history": [
+      {
+        "title": "Warlock 2: The Exiled",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Gremlins, Inc.",
+        "genres": [
+          "Indie",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "The Sims\u2122 3",
+      "genres": [
+        "Simulation"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Wiggles",
+    "history": [
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Need for Speed Undercover",
+        "genres": [
+          "Action",
+          "Racing"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Fable Fortune",
+        "genres": [
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Cheap Rugs",
+    "history": [
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Wild Animal Racing",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie",
+          "Racing",
+          "Simulation",
+          "Sports"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "Back to Bed",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Who's Your Daddy",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Dad's Gaming Addiction",
+    "history": [
+      {
+        "title": "Imagine Earth",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "RECYCLE",
+        "genres": [
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "The Novelist",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Hive",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "The Incredible Adventures of Van Helsing III",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Time Clickers",
+      "genres": [
+        "Action",
+        "Casual",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Alpha",
+    "history": [
+      {
+        "title": "Need for Speed Undercover",
+        "genres": [
+          "Action",
+          "Racing"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "SHOWTIME 2073",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      },
+      {
+        "title": "The Sims\u2122 3",
+        "genres": [
+          "Simulation"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Burn",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "Medieval: Total War\u2122 - Collection",
+        "genres": [
+          "Action",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Cuban Missile Crisis: Ice Crusade",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "X-COM: Terror From the Deep",
+      "genres": [
+        "Strategy"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Remus",
+    "history": [
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Overlord II",
+        "genres": [
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "TUSK3N",
+    "history": [
+      {
+        "title": "Battlepaths",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Back to Bed",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "Pressured",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Zombie Zoeds",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Super Killer Hornet: Resurrection",
+        "genres": [
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "My Name is You",
+      "genres": [
+        "Indie"
+      ],
+      "price": 5.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Paul",
+    "history": [
+      {
+        "title": "Grand Ages: Rome",
+        "genres": [
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Combat Monsters",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "Battle of the Bulge",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Imagine Earth",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Heroes &amp; Generals",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Darky",
+    "history": [
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Prince of Persia\u00ae",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 9.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Milk",
+    "history": [
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Wild Animal Racing",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie",
+          "Racing",
+          "Simulation",
+          "Sports"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "Heart&amp;Slash",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Lost Marbles",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 9.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Orake 2D MMORPG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy"
+      ],
+      "price": "Free To Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Harix",
+    "history": [
+      {
+        "title": "House of Caravan",
+        "genres": [
+          "Adventure",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Red Lake",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Aircraft War X",
+        "genres": [
+          "Action",
+          "Indie",
+          "Simulation"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Steam Dev Days",
+        "genres": [],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Unalive",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Source Filmmaker",
+      "genres": [
+        "Animation &amp; Modeling",
+        "Video Production"
+      ],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Tails' Cash Explosion",
+    "history": [
+      {
+        "title": "A Valley Without Wind",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "STEEL RIVALS",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Totally Unbalanced",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie",
+          "Racing"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Umbrella Corps\u2122/Biohazard Umbrella Corps\u2122",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "LawBreakers",
+      "genres": [
+        "Action"
+      ],
+      "price": 29.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "M\u232crtius|PSN|SlamYourJam",
+    "history": [
+      {
+        "title": "Inquisitor",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "A Valley Without Wind",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Trine 2: Complete Story",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Fish",
+    "history": [
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Gnomoria",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Need for Speed Undercover",
+        "genres": [
+          "Action",
+          "Racing"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "The Hurricane of the Varstray -Collateral hazard-",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Disney\u2022Pixar Finding Nemo",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Dead Space\u2122 2",
+      "genres": [
+        "Action"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "CorvusCorax",
+    "history": [
+      {
+        "title": "Another World \u2013 20th Anniversary Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Overlord II",
+        "genres": [
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Zombie Zoeds",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      },
+      {
+        "title": "Red Lake",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Harvester",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "My Coloring Book: Animals",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Find this!",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "price": 0.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Raven",
+    "history": [
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "calvin",
+    "history": [
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Gnomoria",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Shattered Planet",
+        "genres": [
+          "Indie",
+          "RPG",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Torchlight II",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Cooper",
+    "history": [
+      {
+        "title": "Need for Speed Undercover",
+        "genres": [
+          "Action",
+          "Racing"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "The Novelist",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Gremlins, Inc.",
+        "genres": [
+          "Indie",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Gremlins, Inc.",
+        "genres": [
+          "Indie",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Ghost of a Tale",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Morphy",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "The Novelist",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Vox Populi Vox Dei 2",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Big Brain Wolf",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Another World \u2013 20th Anniversary Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Snakebird",
+        "genres": [
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Pythagoria",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "Tenrow",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Last Inua",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Terminal Hacker",
+      "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free To Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Kyle",
+    "history": [
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Overlord II",
+        "genres": [
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Ages: Rome",
+        "genres": [
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Ballistic Overkill",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 11.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Snakebird",
+      "genres": [
+        "Indie"
+      ],
+      "price": 6.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Sora",
+    "history": [
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Orake 2D MMORPG",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "meme",
+    "history": [
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Transmissions: Element 120",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Jim",
+    "history": [
+      {
+        "title": "Metal War Online: Retribution",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Massively Multiplayer",
+          "Racing",
+          "Early Access"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Vertical Drop Heroes HD",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Snakebird",
+        "genres": [
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Orake 2D MMORPG",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "Blood Code",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Gremlins, Inc.",
+        "genres": [
+          "Indie",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Trine 2: Complete Story",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "ThatOneGuy",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Costume Quest 2",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "GTR 2 FIA GT Racing Game",
+        "genres": [
+          "Racing",
+          "Simulation",
+          "Sports"
+        ],
+        "price": 7.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "rFactor",
+      "genres": [
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "price": 24.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Chase",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Restaurant Empire II",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "TRISTOY",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Wild Animal Racing",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie",
+          "Racing",
+          "Simulation",
+          "Sports"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "LawBreakers",
+      "genres": [
+        "Action"
+      ],
+      "price": 29.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Trevor",
+    "history": [
+      {
+        "title": "Grandia\u00ae II Anniversary Edition",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Always Sometimes Monsters",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "The Sims\u2122 3",
+        "genres": [
+          "Simulation"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "The Novelist",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "archdeco",
+    "history": [
+      {
+        "title": "Fingered",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.87,
+        "rating": 5
+      },
+      {
+        "title": "Flywrench",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Back to Bed",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "Crayon Physics Deluxe",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Chip's Challenge 2",
+      "genres": [
+        "Indie"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Helix",
+    "history": [
+      {
+        "title": "SEGA Bass Fishing",
+        "genres": [
+          "Sports",
+          "Simulation"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Goliath",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 11.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Deus Ex: Mankind Divided",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "price": 59.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Will",
+    "history": [
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Snakebird",
+        "genres": [
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Orake 2D MMORPG",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Reaper",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "In The Shadow",
+        "genres": [],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "A.I.M.2 Clan Wars",
+        "genres": [
+          "Action",
+          "RPG",
+          "Simulation"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Tom Clancy's Ghost Recon\u00ae",
+        "genres": [
+          "Action"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Stellar Tactics",
+        "genres": [
+          "Adventure",
+          "Indie",
+          "RPG",
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "XField Paintball 3",
+        "genres": [
+          "Action",
+          "Indie",
+          "Simulation",
+          "Sports"
+        ],
+        "price": 9.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Nomine",
+    "history": [
+      {
+        "title": "Ring Runner: Flight of the Sages",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Realms of Arkania 1 - Blade of Destiny Classic",
+        "genres": [
+          "RPG"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Among Ripples",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie",
+          "Simulation"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Battlepaths",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Ascendant",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Vertical Drop Heroes HD",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Gnomoria",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Astral Heroes",
+        "genres": [
+          "Free to Play",
+          "Indie",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Metal War Online: Retribution",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Massively Multiplayer",
+          "Racing",
+          "Early Access"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "One More Dungeon",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Tyler",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Back to Bed",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Silence",
+    "history": [
+      {
+        "title": "Fingered",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.87,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Gremlins, Inc.",
+        "genres": [
+          "Indie",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Grandia\u00ae II Anniversary Edition",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dragon Age: Origins",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "RONIN",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "price": 12.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Envy",
+    "history": [
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "LawBreakers",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "The Sims\u2122 3",
+        "genres": [
+          "Simulation"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Aircraft War X",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "price": 2.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Rogue",
+    "history": [
+      {
+        "title": "Might &amp; Magic: Clash of Heroes",
+        "genres": [
+          "RPG",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Might &amp; Magic: Clash of Heroes",
+        "genres": [
+          "RPG",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Battlepaths",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grim Legends 3: The Dark City",
+        "genres": [
+          "Adventure",
+          "Casual"
+        ],
+        "price": 9.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Khorne",
+    "history": [
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "A Valley Without Wind",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Hospital Tycoon",
+        "genres": [
+          "Simulation"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Poker Night 2",
+      "genres": [
+        "Casual",
+        "Sports"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Joe",
+    "history": [
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Prince of Persia\u00ae",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Zombie Zoeds",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Heroes &amp; Generals",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Dark",
+    "history": [
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Ballistic Overkill",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 11.99,
+        "rating": 5
+      },
+      {
+        "title": "Ballistic Overkill",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 11.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "The Lord of the Rings Online\u2122",
+        "genres": [
+          "Free to Play",
+          "Massively Multiplayer",
+          "RPG"
+        ],
+        "price": "Play for Free!",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Snake",
+    "history": [
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Ballistic Overkill",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 11.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Mortal Kombat X",
+      "genres": [
+        "Action"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "weeeeeeeeeeer",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Prince of Persia\u00ae: The Sands of Time",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Dead Space\u2122 2",
+      "genres": [
+        "Action"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Revenant",
+    "history": [
+      {
+        "title": "Prince of Persia\u00ae: The Sands of Time",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Boxa [Idle]",
+    "history": [
+      {
+        "title": "Ichi",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Pressured",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Unhack",
+        "genres": [
+          "Indie"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "Zombie Zoeds",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "The Dark Stone from Mebara",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "price": 7.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Mitch",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Heroes &amp; Generals",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "B a l l a g e",
+    "history": [
+      {
+        "title": "TeraBlaster",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Escape Machines",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG",
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Zombie Zoeds",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Pressured",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Hare In The Hat",
+        "genres": [
+          "Adventure",
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Aircraft War X",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "price": 2.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "\ud83d\udc27 crow",
+    "history": [
+      {
+        "title": "Diamond Dan",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "Casual"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Space Empires IV Deluxe",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Big Brain Wolf",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Sudokuball Detective",
+        "genres": [
+          "Casual"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Superstatic",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Snakebird",
+        "genres": [
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Pythagoria",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "Alea Jacta Est",
+        "genres": [
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 24.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Black Sand Drift",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "price": 0.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Nax_o",
+    "history": [
+      {
+        "title": "Project Druid - 2D Labyrinth Explorer-",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Osteya",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Man's Draw",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "rFactor",
+        "genres": [
+          "Racing",
+          "Simulation",
+          "Sports"
+        ],
+        "price": 24.99,
+        "rating": 5
+      },
+      {
+        "title": "Ring Runner: Flight of the Sages",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Planet Ancyra Chronicles",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "price": 9.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Jake",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Always Sometimes Monsters",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Fingered",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.87,
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "The Lord of the Rings Online\u2122",
+        "genres": [
+          "Free to Play",
+          "Massively Multiplayer",
+          "RPG"
+        ],
+        "price": "Play for Free!",
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "LawBreakers",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "LawBreakers",
+      "genres": [
+        "Action"
+      ],
+      "price": 29.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Vortex",
+    "history": [
+      {
+        "title": "Asteria",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "One More Dungeon",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "KipofMudd",
+    "history": [
+      {
+        "title": "Ichi",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Man's Draw",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Vertical Drop Heroes HD",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Pythagoria",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Batman: Arkham Asylum Game of the Year Edition",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "yatesfam",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Iron Sky: Invasion",
+        "genres": [
+          "Action",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "The Lord of the Rings Online\u2122",
+      "genres": [
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG"
+      ],
+      "price": "Play for Free!",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Kissaki",
+    "history": [
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Fingered",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 1.87,
+        "rating": 5
+      },
+      {
+        "title": "Snakebird",
+        "genres": [
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Among Ripples",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie",
+          "Simulation"
+        ],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "True Bliss",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "price": 5.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Michael",
+    "history": [
+      {
+        "title": "Inquisitor",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Beyond Sol",
+        "genres": [
+          "Action",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Bloody Walls",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "Asteria",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Brothers - A Tale of Two Sons",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Source Filmmaker",
+        "genres": [
+          "Animation &amp; Modeling",
+          "Video Production"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Sutgon",
+    "history": [
+      {
+        "title": "SEGA Bass Fishing",
+        "genres": [
+          "Sports",
+          "Simulation"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Cubemen 2",
+        "genres": [
+          "Indie",
+          "Strategy"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Breakout Invaders",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "The Novelist",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Zombie Zoeds",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "A Valley Without Wind",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "\u90a3\u54c8\u83bd\u884c\u5492",
+    "history": [
+      {
+        "title": "SHOWTIME 2073",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "Cosmic Cavern 3671\u3000\u3000\u5b87\u5b99\u6700\u5927\u306e\u5730\u5e95\u6700\u5927\u306e\u4f5c\u6226",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Battlepaths",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Super Happy Singh",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "Pixel Cup Soccer 17",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie",
+          "Sports",
+          "Early Access"
+        ],
+        "price": 9.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Tenrow",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "price": 2.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Dog",
+    "history": [
+      {
+        "title": "Akaneiro: Demon Hunters",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "RPG"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Prince of Persia\u00ae",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Orake 2D MMORPG",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "Heroes &amp; Generals",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "Massively Multiplayer"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Source Filmmaker",
+      "genres": [
+        "Animation &amp; Modeling",
+        "Video Production"
+      ],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Just Monika",
+    "history": [
+      {
+        "title": "Among Ripples",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie",
+          "Simulation"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "House of Caravan",
+        "genres": [
+          "Adventure",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "The Way of Life Free Edition",
+      "genres": [
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Phruler",
+    "history": [
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Grandia\u00ae II Anniversary Edition",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Costume Quest 2",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "RPG"
+      ],
+      "price": 14.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "PersonGuy",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Recursed",
+        "genres": [
+          "Adventure",
+          "Indie"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Flywrench",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Monolith",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "price": 7.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Jay",
+    "history": [
+      {
+        "title": "Battlepaths",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Among Ripples",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie",
+          "Simulation"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Ballistic Overkill",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 11.99,
+        "rating": 5
+      },
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Warlock 2: The Exiled",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Poker Night 2",
+      "genres": [
+        "Casual",
+        "Sports"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Duke",
+    "history": [
+      {
+        "title": "Iron Sky: Invasion",
+        "genres": [
+          "Action",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "LawBreakers",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Deus Ex: Mankind Divided",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "price": 59.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Hanzo",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Trine 2: Complete Story",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Hospital Tycoon",
+        "genres": [
+          "Simulation"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Warhammer\u00ae 40,000: Dawn of War\u00ae - Soulstorm",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "Escape Machines",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG",
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Mini Golf Mundo",
+        "genres": [
+          "Casual"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Project Druid - 2D Labyrinth Explorer-",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Freedom Force",
+        "genres": [
+          "RPG",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Ziggurat",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "price": 14.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Sheep!",
+    "history": [
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "House of Caravan",
+        "genres": [
+          "Adventure",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Escape Machines",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy",
+        "Early Access"
+      ],
+      "price": 0.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Lucifer",
+    "history": [
+      {
+        "title": "Always Sometimes Monsters",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "LawBreakers",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Crush Crush",
+      "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Fou-Lu",
+    "history": [
+      {
+        "title": "Freedom Force",
+        "genres": [
+          "RPG",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Might &amp; Magic: Clash of Heroes",
+        "genres": [
+          "RPG",
+          "Strategy"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "A Valley Without Wind",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "price": 14.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Dire",
+    "history": [
+      {
+        "title": "The Incredible Adventures of Van Helsing III",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Action Henk",
+        "genres": [
+          "Action",
+          "Indie",
+          "Racing"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Prince of Persia\u00ae: The Sands of Time",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Prince of Persia\u00ae",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Freedom Force",
+        "genres": [
+          "RPG",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Off-Road Paradise: Trial 4x4",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Racing",
+        "Sports"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "..",
+    "history": [
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Iron Sky: Invasion",
+        "genres": [
+          "Action",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Always Sometimes Monsters",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Legacy of Kain: Defiance",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Ford Racing 3",
+        "genres": [
+          "Racing"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Ichi",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Hospital Tycoon",
+        "genres": [
+          "Simulation"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Legacy of Kain: Defiance",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Tom Clancy's Ghost Recon\u00ae",
+        "genres": [
+          "Action"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Pressured",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Zaxtor99 @ YouTube",
+    "history": [
+      {
+        "title": "Escape Machines",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG",
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Age of Survival",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "Simulation",
+          "Early Access"
+        ],
+        "price": 18.99,
+        "rating": 5
+      },
+      {
+        "title": "One More Dungeon",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Balrum",
+        "genres": [
+          "Adventure",
+          "Indie",
+          "RPG",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Night Blights",
+        "genres": [
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Romopolis",
+        "genres": [
+          "Casual",
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "Fragments of Him",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "All Evil Night",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Deadly Sky",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Abscond",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "price": 0.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "ZSST",
+    "history": [
+      {
+        "title": "Crayon Physics Deluxe",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "TRISTOY",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Harvester",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Mighty Party",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy"
+      ],
+      "price": "Free",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Grey",
+    "history": [
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "X-COM: Terror From the Deep",
+        "genres": [
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Combat Monsters",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "LawBreakers",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      },
+      {
+        "title": "Costume Quest 2",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Grand Theft Auto V",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Bouchart",
+    "history": [
+      {
+        "title": "Pressured",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Zombie Zoeds",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Red Lake",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "The Return Home",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 0.99,
+        "rating": 5
+      },
+      {
+        "title": "Battlepaths",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Super Cuber",
+        "genres": [
+          "Casual",
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Dots",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "price": 0.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "amesmes",
+    "history": [
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Normality",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "Mini Golf Mundo",
+        "genres": [
+          "Casual"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "The Dark Stone from Mebara",
+        "genres": [
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Legacy of Kain: Defiance",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 6.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Tomb Raider: Anniversary",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "price": 8.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Nova",
+    "history": [
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Overlord II",
+        "genres": [
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Torchlight II",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 39.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Mad Max",
+    "history": [
+      {
+        "title": "Silent Hunter\u00ae III",
+        "genres": [
+          "Simulation"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Metal War Online: Retribution",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Massively Multiplayer",
+          "Racing",
+          "Early Access"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Mighty Party",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Free to Play",
+          "Massively Multiplayer",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Poker Night 2",
+        "genres": [
+          "Casual",
+          "Sports"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Mortal Kombat X",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Heroes &amp; Generals",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie",
+        "Massively Multiplayer"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Silver",
+    "history": [
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Gnomoria",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Gunspell - Steam Edition",
+        "genres": [
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Imagine Earth",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy",
+          "Early Access"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Gnomoria",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Gnomoria",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Brawlhalla",
+      "genres": [
+        "Action",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free to Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Hurtbringer",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Overlord II",
+        "genres": [
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "A Valley Without Wind",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Humans Must Answer",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Inquisitor",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Last Inua",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Costume Quest 2",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Vertical Drop Heroes HD",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "One More Dungeon",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Dead Space\u2122 2",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "genres": [
+          "Action",
+          "RPG"
+        ],
+        "price": 59.99,
+        "rating": 5
+      },
+      {
+        "title": "Day of the Tentacle Remastered",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Umbrella Corps\u2122/Biohazard Umbrella Corps\u2122",
+        "genres": [
+          "Action"
+        ],
+        "price": 29.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Mini Golf Mundo",
+      "genres": [
+        "Casual"
+      ],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Aura",
+    "history": [
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "fault - milestone one",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "LawBreakers",
+      "genres": [
+        "Action"
+      ],
+      "price": 29.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Leo",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Gnomoria",
+        "genres": [
+          "Indie",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Who's Your Daddy",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "LawBreakers",
+      "genres": [
+        "Action"
+      ],
+      "price": 29.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Apathy",
+    "history": [
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Ziggurat",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Stick Nightmare",
+      "genres": [
+        "Indie"
+      ],
+      "price": 2.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "calibrojosh10",
+    "history": [
+      {
+        "title": "Ring Runner: Flight of the Sages",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "EDGE",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 6.99,
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "Survivor Squad: Gauntlets",
+        "genres": [
+          "Action",
+          "Indie",
+          "Strategy"
+        ],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "[the Sequence]",
+        "genres": [
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Dead Space\u2122 2",
+      "genres": [
+        "Action"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Running-Target",
+    "history": [
+      {
+        "title": "Among Ripples",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie",
+          "Simulation"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Combat Monsters",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Time Clickers",
+        "genres": [
+          "Action",
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Might &amp; Magic Heroes Online",
+        "genres": [
+          "Free to Play",
+          "Massively Multiplayer",
+          "RPG",
+          "Strategy"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Battle Battalions",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Massively Multiplayer",
+          "Strategy"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "The Legend of Tango",
+        "genres": [
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Akaneiro: Demon Hunters",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie",
+          "RPG"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Crush Crush",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "TeraBlaster",
+        "genres": [
+          "Action",
+          "Casual",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Memoir '44 Online",
+        "genres": [
+          "Casual",
+          "Simulation",
+          "Strategy"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Mighty Party",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Free to Play",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy"
+      ],
+      "price": "Free",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "jcbvickers",
+    "history": [
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "RONIN",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "Always Sometimes Monsters",
+        "genres": [
+          "Indie",
+          "RPG"
+        ],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Brothers - A Tale of Two Sons",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Brothers - A Tale of Two Sons",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Mark of the Ninja",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "I Am Alive",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Scribblenauts Unmasked: A DC Comics Adventure",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Strategy"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Katt",
+    "history": [
+      {
+        "title": "DLC Quest",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "The Way of Life Free Edition",
+        "genres": [
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "Pressured",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "Harvester",
+        "genres": [
+          "Adventure"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "FINAL FANTASY\u00ae XIII-2",
+        "genres": [
+          "RPG"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Terminal Hacker",
+      "genres": [
+        "Casual",
+        "Free to Play",
+        "Indie"
+      ],
+      "price": "Free To Play",
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "LL KooL K",
+    "history": [
+      {
+        "title": "STEEL RIVALS",
+        "genres": [
+          "Action",
+          "Indie"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MANDAGON",
+        "genres": [
+          "Adventure",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free",
+        "rating": 5
+      },
+      {
+        "title": "[the Sequence]",
+        "genres": [
+          "Indie"
+        ],
+        "price": 1.99,
+        "rating": 5
+      },
+      {
+        "title": "Realms of Arkania 1 - Blade of Destiny Classic",
+        "genres": [
+          "RPG"
+        ],
+        "price": 3.99,
+        "rating": 5
+      },
+      {
+        "title": "Bloody Walls",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "Normality",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 5.99,
+        "rating": 5
+      },
+      {
+        "title": "The Novelist",
+        "genres": [
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Osteya",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Indie"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Pressured",
+        "genres": [
+          "Indie"
+        ],
+        "price": 2.99,
+        "rating": 5
+      },
+      {
+        "title": "The Dark Stone from Mebara",
+        "genres": [
+          "Adventure",
+          "Indie",
+          "RPG"
+        ],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Terminal Hacker",
+        "genres": [
+          "Casual",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free To Play",
+        "rating": 5
+      },
+      {
+        "title": "Super Killer Hornet: Resurrection",
+        "genres": [
+          "Indie"
+        ],
+        "price": 4.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Hunahpu: way of the Warrior",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "price": 6.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "Big Shaq",
+    "history": [
+      {
+        "title": "Scribblenauts Unmasked: A DC Comics Adventure",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Casual",
+          "Strategy"
+        ],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Far Cry 3 - Blood Dragon",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Brawlhalla",
+        "genres": [
+          "Action",
+          "Free to Play",
+          "Indie"
+        ],
+        "price": "Free to Play",
+        "rating": 5
+      },
+      {
+        "title": "Source Filmmaker",
+        "genres": [
+          "Animation &amp; Modeling",
+          "Video Production"
+        ],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Mortal Kombat X",
+        "genres": [
+          "Action"
+        ],
+        "price": 19.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Mortal Kombat X",
+      "genres": [
+        "Action"
+      ],
+      "price": 19.99,
+      "rating": 5
+    }
+  }
+]

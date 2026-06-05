@@ -46,22 +46,7 @@ This directory contains the datasets used for analyzing position bias in LLM-bas
 - **Description**: Music album reviews and ratings
 - **Use Case**: Music recommendation and preference analysis
 
-### 5. **News Dataset (MIND)**
-- **Source**: Microsoft News Dataset (MINDsmall)
-- **Size**: ~609MB
-- **Files**:
-  - `behaviors.tsv` - User click behaviors
-  - `news.tsv` - News article information
-  - `MINDsmall_train.zip` - Training data archive
-  - `MINDsmall_dev.zip` - Development data archive
-  - `MINDsmall_train/` - Extracted training data
-    - `entity_embedding.vec` - Entity embeddings
-    - `relation_embedding.vec` - Relation embeddings
-  - `processed_df*.csv` - Various processed versions
-- **Description**: News article clicks and user behavior
-- **Use Case**: News recommendation and information filtering
-
-### 6. **Steam Games Dataset**
+### 5. **Steam Games Dataset**
 - **Source**: Steam platform data
 - **Size**: ~4.8GB
 - **Files**:
@@ -115,9 +100,9 @@ mv ml-1m/* data/ml-1m/
 
 #### 2. Amazon Product Data
 ```bash
-# Beauty Products
-wget https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/categoryFiles/All_Beauty.json.gz
-wget https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/metaFiles2/meta_All_Beauty.json.gz
+# Beauty Products 
+wget https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz
+wget https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/meta_categories/meta_All_Beauty.jsonl.gz
 
 # Books
 wget https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/categoryFiles/Books.json.gz
@@ -128,22 +113,35 @@ wget https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/categoryFiles/CD
 wget https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/metaFiles2/meta_CDs_and_Vinyl.json.gz
 ```
 
-#### 3. MIND News Dataset
+#### 3. Steam Dataset
 ```bash
-# Download from Microsoft
-# Visit: https://msnews.github.io/
-# Download MINDsmall_train.zip and MINDsmall_dev.zip
-```
+# Steam Games Metadata
+wget https://mcauleylab.ucsd.edu/public_datasets/data/steam/steam_games.json.gz
 
-#### 4. Steam Dataset
-```bash
-# Available from various sources:
-# - Steam Web API
-# - Community datasets on Kaggle
-# - Academic dataset repositories
+# Steam User Reviews
+wget https://mcauleylab.ucsd.edu/public_datasets/data/steam/steam_reviews.json.gz
 ```
 
 ## 🔧 Data Processing Scripts
+
+### Generating Evaluation Datasets
+
+We provide a unified master script `create_datasets.py` to seamlessly build consistent evaluation datasets for all supported sources (MovieLens, Amazon, and Steam). This script filters eligible users, maps metadata (genres, price), extracts chronological histories, and builds structured splits ready for LLM position bias analysis.
+
+```bash
+# Generate datasets for all sources
+python data/create_datasets.py --dataset all
+
+# Generate datasets for a specific source
+python data/create_datasets.py --dataset books
+```
+
+**Supported dataset arguments:** `ml-1m`, `books`, `beauty`, `music`, `steam`, `all`.
+
+**Outputs generated per dataset:**
+- `test_dataset.json` & `eval_test_dataset.json`: 150 users, 20 candidates (1 ground truth + 19 random negatives).
+- `hard_test_dataset.json` & `eval_hard_test_dataset.json`: 100 users, 30 candidates (1 GT + 19 random + 10 genre-matched negatives).
+- `probe_dataset.json` & `eval_probe_dataset.json`: 50 users, 100 random unseen candidates (No GT; purely for position probing).
 
 ### Loading Data
 ```python

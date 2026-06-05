@@ -1,0 +1,3324 @@
+[
+  {
+    "user_id": "AFR4BTNWATNG7O4SOME4XK6NNBYQ",
+    "history": [
+      {
+        "title": "Savon de Marseille, Jasmine fragrance, 5.3 Oz Bar soap, Marius Fabre",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Optimum Salon Haircare Damage Antidote Oil Moisturizer 8.5 oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Venezia Soapworks Moisturizing Soap Rose - 7oz",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Asquith & Somerset ROSE GARDEN 10.5 Oz Perfumed Bath Soap, Gift Wrapped, imported from England",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Calgon Massaging Beauty Bar - English Garden: 2 Bars",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Michel Design Works Bath Soap Bar, Peony, Large",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Bundle of 2 Greenwich Bay Trading Co. Soaps - 10.5oz Bath Soap Bar and Matching 1.9oz Hand Soap Bar (Passion Flower and Olive Oil)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Commonwealth Argan Oil Moisturizing Bath Bar 12 Oz Boxed by CST",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Castelbel Porto Tropical Garden Luxury Bath Bar 10.5 Oz Gift Wrapped",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "CST Commonwealth Honeysuckle 12 Oz Bar Soap Boxed",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Michel Design Works Oversized Triple Milled Bath Soap Bar, Magnolia, Large, 8.7 Ounce",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AEU64BW76A3GKMZAGLUZZORCMB7A",
+    "history": [
+      {
+        "title": "Plastic Clear Spray Bottles - 10 Packs 3.38oz/100ml Empty Refillable Containers with 1 Funnel for Perfume Essential Oils Liquids Aromatherapy Travel Cosmetic Makeup",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Jumbo Braiding Hair Extensions 3 Packs 165G High Temperature Synthetic Fiber Single Color Jumbo Braids ( Black )",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "10Pack 2oz Plastic Empty Spray Bottle, Mostof Fine Mist Small Clear Travel Plastic Bottles Container with Funnels Labels",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Gel UV Nail Lamp, AsperX 150W LED Nail Dryer Gel Nail Polish Light Curing Lamp Kit Smart Auto-sensing with 10/30/60/99s Timer",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Empty Plastic Mini Fine Mist Spray Bottles Refillable Pump Bottle 3.4oz / 100ml Small Travel Size with Labels Funnels Cleaner",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "AMAJULIE Non Slip Flexible Silicon Wigs Fix Strong Hold Comfort Silicone Lace Wig Grip Transparent Headband Hair Band Adjustable for Lace Wigs (Dark Brown)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Jumbo Braiding Hair Extensions 24 Inch 6 Packs Ombre Synthetic Hair Crochet Braids Kanekalon Long Jumbo Braids For Box Braid Twist Crochet Hair (Black/Dark Brown/Light Brown)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "HWASHIN 12 Pack 3.4oz/100ml Clear Plastic Spray Bottles with White Fine Mist Sprayers for Essential Oils, Perfumes & Aromatherapy (Brush, Funnels, Droppers, Labels & 30ml Measuring Cup Included)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "36 Pack 2oz Clear Plastic Empty Bottles Travel Containers with Flip Cap for Hand Sanitizer, Cosmetic, Shampoo, Lotion, Liquid Body Soap, Cream, Toner, BPA-free",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Continuous Spray Bottle, Fine Mist Spray Bottle for Hair, 250ml/8oz Small Empty Plastic Misting Refillable Sprayers for Refreshing Curls, Curly Hair, Garden Continuous Water Mister (Black + White)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Curly Girl Hair Spray Bottle \u2013 Ultra Fine Extended Water Mister for Curly Hairstyling, Care and Moisturizing (10 Fl. Oz. & 24 Fl. Oz Set, Swirls White Top)",
+        "genres": [],
+        "price": 29.95,
+        "rating": 5
+      },
+      {
+        "title": "Multicolors Crimped Bobby Pins, 96 Counts 2 Inches Non Slip Grip Hair Pins For Women, Safe Rubber Tips & Strong Grip Bob Pins, Bobby Pins Blonde, Black, Brown, Green",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "12 Sheets 3D Iridescent Butterfly Nail Art Stickers for Fingernail Toenail, Self-Adhesive Butterfly Nail Decals, Holographic Glittery Butterfly Nail Decorations for Women Girls",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "StudentsZone Fashion Headbands for Women, Cute Bow Headband for Spa, Makeup or Washing Face, No Slip Head Bands for Girls ( 1 * Pink Polka Dot + 1* Pink Leopard )",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Upgraded Magic Eyeliner and Eyelashes Kit, 25mm Mink Lashes Magnetic Eyelashes with Eyeliner,Self-adhesive False Lashes 3 Pairs with Tweezers,No Glue Need (K79A Light blue)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Yawamica 15 Pairs 6D Mink Eyelashes Faux 20MM Lashes Fluffy Cat Eye Wispy False Eyelashes Thick Dramatic Fake Eyelashes Handmade Reusable Natural Look Eyelashes Pack Long Eye Lashes",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "25mm Criss-cross Fluffy False Eyelashes KISSNOWY 7Pairs Faux Mink Hair Lashes, Cruelty-free Eye Extension Makeup Tools For 8D Dramatic effect (6.0\uff09",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Bath Body Brush with Super Comfy Bristles for Universal Skin,Long Bamboo Handle Gentle Exfoliation Improve Skin's Health and Beauty Wet or Dry Brushing Back Scrubber for Shower",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Got2b Glued Spray Wax with 2-in-1 Dual Nozzle, 8 oz",
+        "genres": [],
+        "price": 6.47,
+        "rating": 4
+      },
+      {
+        "title": "3D False Eyelashes 10 Styles Mixed False Lashes Pack,10-15mm Eyelashes Natural Look individual package 10 Pairs",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MERISIHAIR Short Bob Wig with Bangs,Straight Black Bob Wigs for Women,Natural Short Synthetic Bob Wig 11inch(Black)",
+        "genres": [],
+        "price": 16.99,
+        "rating": 3
+      },
+      {
+        "title": "2Pcs French Smile Line Cutter,Nail Molding Stainless Steel Template Cutter French Nails Acrylic Pro 9 Size Tips French Smile Cut V Line Suitable For DIY Manicure,Manicure Edge Modification",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "O.M.CHIC Mannequin Head with shoulders for wig, Display wigs Eyeglasses Necklaces and Earrings",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Wispy Mink Lashes IZONI'MME 20 Pairs False Eyelashes Faux Mink Lashes 5 Styles Eye Lashes Sets Pack Lashes Natural Look 16-20MM 3D Mink Lashes",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "BooYoor 6 Packs Butterfly Locs Crochet Hair 12 Inch Handmade Butterfly Faux Locs Crochet Hair Pre Looped Distressed Locs Crochet Braids (12Strands/Pack,1B#)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Mocossmy Cross Nail Art Charms Decoration,72 PCS Gold Silver 3D Mini Metal Punk Vintage Cross Designs Mixed Types Retro Acrylic Nail Jewelry Accessories for Women Girls DIY Manicure Crafts Decoration",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "L\u2019ange Argan-Infused Round Brush | Lightweight & Ergonomic Design | 43MM Tourmaline Ceramic Barrel",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "LLTGMV Rat Tail Comb Steel Pin Rat Tail Carbon Fiber Heat Resistant Teasing Combs with Stainless Steel Pintail (Black)",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AEKMOOO4KWY3MG4M2CXWFQQ7Q5CA",
+    "history": [
+      {
+        "title": "LaClaire Foaming Botanical Facial Cleanser with Enriched Antioxidant Botanicals - Nourishing pH Balanced Face Wash (50 ml/1.65 oz), Made in the USA",
+        "genres": [],
+        "price": 12.99,
+        "rating": 3
+      },
+      {
+        "title": "Jade Roller for Face,Anti-aging Jade Roller Massager Eye Jade Facial Roller for Women Puffiness, Real Jade 100% Natural Herbivore Jade Facial Roller Jade Stone Roller Set with Gua Sha Tool,Case,Pouch",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Butecare Eyelash Growth Enhancer & Brow Serum for Long - Amazon Vine",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "TRESemm\u00e9 Botanique Shampoo and Conditioner Four Pack, Nourish & Replenish, 88 oz",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Hand Crafted Ceramic Aromatherapy Essential Oil Diffuser,100ml Fragrant Room Sprays Ultrasonic Aroma Mist Atomizer BPA-Free, Waterless Auto Shut-Off and 7 Color Night Lights for Office Home Study Yoga",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "Isshah Stainless Steel Metal Tongue Scraper Cleaner - Get Rid of Bad Breath and Bacteria - Pack of 4 - Eco Friendly Packaging",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AEAULPMFJAJ3LY45DFUK6XBYJJUA",
+    "history": [
+      {
+        "title": "FIXY Large Empty Magnetic Makeup Palette with Mirror, Perfect Travel Makeup Organizer",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Cute Cartoon Makeup Brushes Set - 8pcs Fairy Makeup Brushes with Soft Pink Fiber and Metallic Handle for Eyebrow, Eyeshadow, Foundation, Blending and Lips, Great Gift for Sister Girlfriend (Style B)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Face Cleanser Stick by Disco for Men, Hydrating, Removes Dirt and Build Up, All Natural and Paraben Free, Eucalyptus Scent, 2.12 Ounces",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Face Scrub by Disco for Men, Exfoliating and Cleansing, Removes Dead Skin and Build Up, All Natural and Paraben Free, Eucalyptus Scent, 2 Ounces",
+        "genres": [],
+        "price": 7.99,
+        "rating": 5
+      },
+      {
+        "title": "Face Mask by Disco for Men, Detoxifying and Cleansing, All Natural and Paraben Free, 3.53 Ounces",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "[ 2 Pack] Eyebrow Pencil -Makeup Brow Stylist Definer Longlasting Waterproof Brow Pencil with Spoolie Brush, Shaper and Filler Auto Pencil For Women - All Hair Colors & Skin Tones (A-Brown)",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AFDCRSWD5SXZ7YXKIKZ5LHUUT5NA",
+    "history": [
+      {
+        "title": "Miracalis - Best Face Cream Moisturizer With Advanced Anti Aging Wrinkle Formula. Clinically Proven To Reduce Wrinkle Depth, Smooth Fine Lines & Soften Skin. Cruelty Free, Hypoallergenic",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Pink Hair Brush",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Professional Grade Retinol Anti-Aging Skin Moisturizing Cream - For Age Spots - By Swiss Botany",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Retinol 2.5% Cream From Majestic Pure for Face and Eye Area Will Nourish Your Skin, Potent Anti Aging Formula Reduces Wrinkles, Stretch Marks & Redness, 50ml",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Vitamin C Serum for Face - C Booster With Hyaluronic Acid and Vitamin E - Anti Wrinkle - Anti Aging - Skin Repair For Age Spots and Sun Damage - For Men and Women",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Highest Quality At Home Electric Callus Remover- For the Smoothest, Softest And Cleanest, Feet",
+        "genres": [],
+        "price": 14.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Evolve 100% Boar Bristle Hair Brush, Best Brush for Pocket / Purse / Travel Size, Distribute Natural Oil & Stimulate Scalp, Medium Firmness, Great for Beards",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AGCBL6QU36QUAIUD7AUV3OYK24YA",
+    "history": [
+      {
+        "title": "1pc Stainless Steel Scissor with Curved Sharp Edge Blades for Eyebrow,Facial Hairs and False Eyelashes,Eyebrow Scissor,Facial Hairs Scissor,Makeup Tool Scissor,Shape Eyebrow,Shape False Eyelashes",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "HECLOUD Flat Iron Hair Straightener Pressing Comb for Women,Negative Ion 0 Damage Straight Hair Brush,PTC Ceramic Heating,6 Gear,One Pass,Automatic Shut Off, Portable Size for Well at Home, School, and Travel",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Luster's SCurl Free Flow Twist & Lock Gel",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Campsis Sparkle Metal Mask Black Leopard Printed Rhinestone Masquerade Mesh Mask Sparkle Party Halloween Nightclub Mardi Gras Face Mask for Women and Girls",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Ors Gel Lock & Twist 13 Ounce Jar (384ml) (3 Pack)",
+        "genres": [],
+        "price": 11.91,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "16 Pieces Parting Comb Sectioning Clips Set, Carbon Stainless Rat Tail Combs Pintail Comb and Duckbill Hairpin Barber Teasing Parting Styling Combs for Hair Styling Hairdressing (Purple)",
+      "genres": [],
+      "price": 8.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFUKCEULW4KYMWRQCVGI6K3WTVUA",
+    "history": [
+      {
+        "title": "N3 No Name Necessary Pore Minimizing Moisturizing Scented Long-Lasting Anti-aging and Hydrating Face Primer Spray \u2013 (200ml)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Mountain Falls Regular Nail Polish Remover for Natural Nails, with Vitamin E and Panthenol, 6 Fluid Ounce",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "PARASOL Calm+Natural Baby Shampoo & Body Wash - All Natural, Plant-Based, Moisturizing, No Parabens or Fragrences (Lavender) 1 pack, 8 Fl Oz",
+        "genres": [],
+        "price": 15.0,
+        "rating": 5
+      },
+      {
+        "title": "Magnesium Serum For Kids - All Natural Rub for Kids and Babies, Toxic Free + Free Magnesium Chart PDF",
+        "genres": [],
+        "price": 25.99,
+        "rating": 5
+      },
+      {
+        "title": "TELETIES - Spiral Hair Coils - Ponytail Holder Hair Ties for Women - Phone Cord Hair Ties - Strong Grip, No Rip, Water Resistant, No Crease Hair Tie Coils - 3 pack (Large, Flamingo)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "YOKILLY Silicone Back Scrubber for Shower - Exfoliating Double Side Silicone Body Scrubbers - Handle Silicone Bath Towel Body Washer Brush for Women and Men(Purple)",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AECJWYAOJ34RILHGK2CKU42UOVKA",
+    "history": [
+      {
+        "title": "UV Light for Nails,LKE Curing Lamp for Gel Nail Polish 54W UV Led Light Gel Nail Starter Kit Nail Dryer Accessories",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Gentle Steam Eye Heat Mask, Hawwwy 10 Pack, The Best Heating Eye Mask, Just Put-On and Relax, Reduces Stress, Puffy Eyes Dark Circles, Disposable, Compress Moist Compresses Dry Hot Heated Pad",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Cleancult Soap Dispenser with Pump, 12oz Frosted Glass Refillable Bottle with Non-Slip Grip, Pre filled with Natural Liquid Handsoap, Lavender Scent, Eco Friendly",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "WIS Intensive Hydrating Facial Mask Smoothing Face Sheet Mask 24 Pack, Essence Full Face Facial Mask Sheet - Sensitive Soothing, Anti-Acne, Nourishing Cleansing Facial Mask Set for Women, Men",
+        "genres": [],
+        "price": 28.99,
+        "rating": 5
+      },
+      {
+        "title": "Blue Sage De-Puffing Caffeine Eye Serum | Natural Anti-Aging Eye Treatment with Probiotics, Green Tea + Hyaluronic Acid Serum for Face to Tighten and Hydrate under Eye Skin, and Brighten Dark Circles",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      }
+    ],
+    "ground_truth": {
+      "title": "Shakira Perfumes - Dance for Women - Long Lasting - Femenine, Charming and Modern Perfume - Fruity Floral Notes - Ideal for Day Wear - 1.7 Fl Oz",
+      "genres": [],
+      "price": 29.34,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AHLQVJPH73V2UVWJCRLAXXFKOGLQ",
+    "history": [
+      {
+        "title": "VOOADA Electric for Face, Arm, Waist, Belly, Leg, Hip",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "SYbeauty Pre Stretched Braiding Hair Extensions 26 Inch 10 Packs/Lot Synthetic Kanekalon Ombre Braiding Hair Professional Soft Yaki Texture Natural Easy Braid Crochet Hair (26\", 1B)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "JARGOD 1pcs 100% Kolinsky Sable Acrylic Nails Round Nail Art Brush (size 4)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "C'est Moi Gentle Cleansing Water | Gentle, Fragrance-Free Cleanser Removes Makeup and Refreshes Skin, Made with Cornflower Water, Aloe Vera, and Strawberry, Kiwi, and Apple Extracts | 5.9 fl oz.",
+        "genres": [],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "6 Pack Spray Bottles,Empty Plastic Clear Small Transparent Travel Bottles Pump Bottle Lotion Dispenser Bottle Set,Refillable Liquid Containers 3oz and 2 oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Altaba Long Wavy Wigs Ombre Red Synthetic Wigs Middle Part Natural Looking Heat Resistant Party Cosplay Full Wig for Women",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "3 Packs Wig Stand Holder,Portable Wig Hanger for All Wigs Long and Short Hair and Hats,Durable Collapsible Travel Wig Stands Display Tool Dryer Holder(3 Pack, Pink)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "EEWIGS Ombre Green Synthetic 13\u00d74 Lace Front Wigs short Bob Straight wig Heat Resistant cosplay wigs with pre plucked for women",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Long Black Wavy Wig with Bangs for Women Synthetic Wigs Natural Looking Realistic Wigs Hair for Daily Party Cosplay Use",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Argan Magic Color Protection Hair Mask \u2013 Nourishes, Hydrates & Helps to Protect Color Treated Hair | Enriched with Moringa Oil & Botanical Extracts | Made in USA | Paraben Free | Cruelty Free (8 oz)",
+        "genres": [],
+        "price": 13.88,
+        "rating": 5
+      },
+      {
+        "title": "21AE Silky Straight Lace Front Wigs with Baby Hair Pre plucked Frontal 22 Inch Synthetic Wigs for Black Women Heat Resistant Fiber Wigs Middle Parting Natural Color Wig",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Lace Front Wigs Straight Human Hair Silk Base Lace Closure Wigs for Black Women 10A Brazilian Remy Virgin Human Hair Wigs Natural Black Color 16 Inch",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Urrtreusor Pixie Layered Short Grey Wigs for White Women Ombre Blonde Natural Wave Synthetic Full Old Lady Wig Old Middle Age Women Office Lady Mixed Brown Highlight Wig",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "LuminaGlow Liquid Dual Eyeliner Waterproof Vegan Black Smudge Proof Cruelty-Free Paraben-Free, 0.02oz Description of the Issue - I need to change the title to be more descriptive.",
+      "genres": [],
+      "price": null,
+      "rating": 3
+    }
+  },
+  {
+    "user_id": "AHHQMVOQSY4WOIU5AWA5AEAQPJ6Q",
+    "history": [
+      {
+        "title": "Higher Education Skincare: Goal Digger - Silky Moisturizing Cucumber Creme; formulated for dry and sensitive skin; cucumber extract; natural extract: melon, kale, cabbage, ginger, turmeric - 1.7 fl oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Blue Sage De-Puffing Caffeine Eye Serum | Natural Anti-Aging Eye Treatment with Probiotics, Green Tea + Hyaluronic Acid Serum for Face to Tighten and Hydrate under Eye Skin, and Brighten Dark Circles",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "BH DERMCENTER Glycolic Acid Resurfacing Serum - Brightens and Clarifies Skin 1 oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "KISSIO Color Changing Lipstick,Discoloration and Moisture retention,Temperature Sense Changing Color,Long Lasting Color,Fresh Colors(03#Orange)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "SHIONLE - Semi Matte Air Lipstick: Creamy semi matte lipstick | Long Lasting | Great Coverage | Creamy Texture | 03 FLAMINGO PINK | 3.3g",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "GLY MIRACLE Moisturizing Lip Balm Bundle of Three (3) SPF 30 Natural Elixir of Aloe Vera, Bees Wax, Coconut Oil, Lanolin, Shea Butter to help repair, protect, nourish and soften lips",
+        "genres": [],
+        "price": 16.85,
+        "rating": 4
+      },
+      {
+        "title": "COCOSOLIS GROW Hair Growth Serum Spray - Hair Serum for Thick and Vibrant Hair - Hair Growth Vitamins to Repair Damaged Hair, Reducing Hair Loss, Faster Hair Growth - Hair Treatment for All Hair Type",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "mold remover gel (3 Pack)",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AEI37P2K6YHKFLSOIOUKAURUY6JA",
+    "history": [
+      {
+        "title": "JIMIRE 20 Pairs False Eyelashes Natural Short Lashes Pack Bulk Eyelashes Multipack",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "False Lashes Faux Mink Eyelashes 30 Pairs Fluffy Wispy Eye Lashes Pack 3D Natural Look 17mm Eyelashes Wholesale",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "FANXITON 8 Styles Mixed False Eyelashes Fluffy Natural Fake Lashes 3D Volume Faux Mink Lashes Pack 16 Pairs",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Natural Eyelashes Pack 40 Pairs 8 Styles Wholesale Lashes Fluffy Wispy Lashes Soft Handmade 3D Lashes Bulk for eyelash lovers by wtvane",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "False Eyelashes Wispy Lashes Natural Look Full Short Fake Eyelashes 15mm for Small Eyes 14 Pairs Faux Mink Lashes Pack",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Self-Adhesive Eyelashes Natural Lashes Wispy Without Glue, Reusable False Eyelashes Extension 3 Styles Fake Eyelashes Soft Skin-Friendly Lashes Pack",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Ruairie Reusable Self Adhesive Eyelashes No Glue Needed 3 Styles Preglued Fluffy False Eyelashes Natural Look Wispy Cat Eye Lashes Pack",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "JIMIRE Russian Strip Eyelashes D Curl Wispy Lashes 20 Pairs Fluffy Volume Styles Mixed Fake Eyelashes Natural Look Pack",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AHJJBE3K44LAX3EKQ62EXPZMHQPQ",
+    "history": [
+      {
+        "title": "Retseliney Retinol Moisturizer Cream for Skin",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Cleopatra Metallic Temporary Tattoos Gold, Silver, & Black Hot New Theme! Suns, Feathers, Bracelets, Rings, Arrows, Gold Birds, Jewels, Diamonds, and More",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Goege Concealer Camouflage Foundation Makeup Palette Contour Face Contouring Kit(Mix 20 Color)",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Aisxle 7 Piece Professional Cosmetic Makeup Brush Brushes Set Make Up Eye Shadow Blush Brush Cosmetic Kit with Pouch Bag",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Blackhead Mask,Sky-shop Facial Mask Nose Mask Face Mask Blackhead Cream with Activated Charcoal Deep Pore Cleanse, Peel Off Deep Skin Clean Purifying Face Mask for Acne and Blackheads (100g) (110G)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "NATURAL VEGAN Face Wash Cleanser 2PK | Natural Aloe Vitamin Rich Foaming Facial Skin Cleansing | BEST pH Balanced Facial Soap for Sensitive Skin, Oily, Dry | Fragrance Free Naturals for Women and Men",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AF453YWNMOPDI5XRRVQOIF56NM4Q",
+    "history": [
+      {
+        "title": "HEXZE-emoji the iconic brand Moisturizing Lip gloss Long Lasting Kissproof pigmented matte liquid Lightweight-S08",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Daletu Nail Clips, 10PCS Clear Nail Clips Finger Extension Fixed Clip, Quick Building Finger Builder Nail Clamps, Nails Art DIY Manicure Tool",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Jopuzia Natural Jade Roller for Face and Gua Sha Set - Beauty Cosmetic Facial Skin Roller Massager Tool (Pink Heart set)",
+        "genres": [],
+        "price": 9.99,
+        "rating": 2
+      },
+      {
+        "title": "Pre Stretched Easy Braiding Hair Purple Color Braids Itch Free Hot Water Setting Synthetic Fiber Yaki Texture Black Crochet Braiding Hair Extension (26Inches 8Packs/Lot)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "DARKLATER Tongue Scraper for Adults,Metal Tongue Cleaner,Tounge Scraper Cleaner,2 Pack\u2026",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "NULASTIN Skin \u2013 Gentle Exfoliating Cleanser | Invigorating Face Scrub with Caffeine, Jojoba Oil Beads, Calendula Flower Extract & Witch Hazel \u2014 For Dry, Oily & Sensitive Skin (Vegan & Cruelty-Free)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Silk Exfoliating Mitt,Deep Exfoliating Mitt Body Scrub And Face Scrub,Dead Skin Removal Smooth Skin And Keratosis Pilaris Treatment",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "HH&LL 4pcs Large Hair Claw Clips, 4.3inches Nonslip Strong Hold Clip for Thick Hair (Shiny)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Women Ultra Smooth Razor Womens Razors for Shaving Comfortable handle 5-blade Razor + 2 Refill Blades for a Smooth and safety Shave Reusable Razors for Girls Women",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "JODK Heatless Curling Rod Headband, No Heat Hair Curlers Ribbon with Hair Clips and Scrunchie, Soft Plush & 100% Silk Rollers for Long Hairs Sleep In, DIY Hair Styling Tools Kit for Women Girl's-Pink",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Havtyyise-3 sets of men's and women's bathing exfoliating gloves, bath sponge with handle, loofah set is suitable for deep cleansing of the skin and body dead skin remover (about 31 inches long)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Crystal Glass Dappen Dishes for Nail Art Acrylic Liquid Powder and Nail Polish Removing (2, Clear)",
+        "genres": [],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "AORAEM Mini Nail Dust Collector Portable Suction Dust Collector Machine Handheld Table Dust Sweeper with Brush for Nail Drills Acrylic Nails (Light Grey)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Simple Pleasures 10-Piece Nail Polish Kit with Shimmering Nail Polish Shades, Glittery Toe Separator, Emery Board Nail File, 50 Nail Stickers, and Clear Plastic Carry Pouch Purse with Zipper",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "WALRUS OIL - Preserver Tattoo Balm, 2oz, Nourishes Skin & Enhances Ink, 100% Vegan, Unscented",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Makartt Nail Decoration Set, Parisian Chic-ism 12 Boxes Nail Jewels Nail Crystal and Rhinestones Nail Charms with 3 Sheets Nail Prints Stickers Nail Foil Flower Shape Nail Decals for Nail Art Design",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Janier Coffin Nail Tips Nail Glue Kit,2 In 1 Nail Glue Base Coat Top Coat for Acrylic Nail with Coffin Fake Nail and U V LED Nail Lamp,Nail Extension Gel DIY Home Nail Art Set\u2026",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "RSTYLE UV Gel Nail Polish Set, 4 Colors Glitter Light Pink Red Gel Nail Polish Kit UV/LED Manicure Nail Starter Kit with Gift Box for Nail Art Design DIY At Home 5ML Tiny Bottle",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "ANGNYA 6Pcs Nail Art Brushes Set Gel Nail Polish Design Pen Painting Tools With Nail Extension Gel Brushs,Builder Gel Brush,Nail Art Liner Brush for Salon at Home DIY Manicure(Pink)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Acrylic Nail Brush Set,8pcs Fine Nail Art Brushes For Acrylic Application,Gel Polish Nail Design Pen Tools With Nail Dotting Painting Drawing Brush For DIY Manicure At Home and Salon",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Morovan Gel Nail Polish Remover Kit - 16oz Gel Polish Remover Professional Remover Liquid Set with Soak-Off Clip Cuticle Pusher Nail File Quick Easy Remove UV Gel Polish Glitter Powder",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Unaone Makeup Sponge Beauty Blender, 60 Pieces Makeup Wedges Sponges, Perfect for Blending Foundation and Concealer, Latex-Free Cosmetic Sponges Rhombus, Triangle, Square and Round",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "L\u2019ange Argan-Infused Round Brush | Lightweight & Ergonomic Design | 43MM Tourmaline Ceramic Barrel",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "1PCS Sparkling Crystal Stone Braided Hair Clips, Braided Hair Clips for Women, Rhinestone Hair Clips for Thick Hair, Flower Hair Clip with 3 Small Clips, Hair Barrettes for Women Girls Styling",
+      "genres": [],
+      "price": 6.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFMTB6XAI3YBCJVTOGKOFJU3LUOQ",
+    "history": [
+      {
+        "title": "Del Monte Sauerkraut 14.5 oz. (3-Pack)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Spa Grade Jade Roller for Face with Gua Sha | Jade Face Roller Massager | Jade Facial Roller | Face Roller Massager | Jade Rollers | Wrinkle Roller",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Mountain Falls Regular Nail Polish Remover for Natural Nails with Vitamin E and Panthenol, 10 Fluid Ounce",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Wonder4 Electric Callus Remover - Rechargeable Electric Foot File Callus Shaver Hard Skin Remover Pedicure Tools with 3 in 1 Roller Heads, for Cracked Heels Calluses and Dead Skin",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "DAN Technology Anti-Scald 200\u2109-500\u2109 Electric Press Hot Comb for Black Hair, Beard and Wigs, Ceramic Unisex Hair Beard Straightener and Curler, Dual Voltage for Travel, Home and Salon Use",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MEACOLIA Water Mist Empty Spray Bottle for Hair,Plastic Spray Bottle for Cleaning Solutions,Refillable Container with Adjustable Head(Pack of 3,8 oz)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Spray Bottle,Fine Mist Mini Clear50ml/2oz Spray Bottles,Small Reusable Empty Plastic Bottles with Atomizer Pumps (25 pack,2 Funnels included)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Make-up Organizers Storage Cosmetic Organizer Display Case Dustproof Storage Box Waterproof Holder Used for Bathroom w/Handle Christmas Gift 12\"L x 16\"H White",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Spray Bottle, 1.7oz / 50ml Transparent Empty Fine Mist Plastic Reusable Travel Bottle Set, With 4 Funnels And 6 Labels, Suitable For Perfume, Essential Oil Spray, Medical Alcohol, Etc. (4 Pieces)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Empty Amber Glass Spray Bottles - (4 Pack) 16 oz with Labels Refillable Container for Essential Oils, Cleaning Solutions, Cleaning Products, Hair, Plant Mister, Daily Shower, Gardening or Aromatherapy",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Facial Steamer with Portable Mini Cold Facial Mister, Face Steamer for Facial Deep Cleaning, Nano Ionic Face Hot Steaming Machine for Home Facials Personal Moisturizing Skincare Beauty",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "DOYIZZ Makeup Brushes Set, 10pcs Crystal Handle Makeup Brushes Powder Blush Brush Foundation Brush Blending Eye shadow Concealer Makeup Brush Set (Pink)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Big Hair Claw Clips for Women and Girls - 4.3 Inch 8 Pcs Matte Claw Hair Clips for Thick Hair, Large Jaw Clips for Thin Hair, 2 Styles Strong Hold Hair Accessories for Girls",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AH5ONINJRNZ674DXUMV4RMYIFYVQ",
+    "history": [
+      {
+        "title": "Brush Strokes Large Ball Tip Rounder Brush (Assorted Colors)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Cancun Collection Cacao Body Bronzer \u2013 Superfood Infused Sunless Tanning Lotion with Cacao 5.1 fl.oz, For Instant Tan in 1 minute.",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MD Complete Bright & Healthy Citrus-C Refresh Retinol + Vitamin C Multitasking Treatment",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "2-Pack Puretize 16.9 Oz Hand Sanitizing Gel w/Pump Tops - Extra Strength 70% Ethyl Alcohol - Moisturizing Formula with Aloe Vera, Vitamin E & Botanical Extracts - Quick Drying Formula",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Sunsonic Electric Razor, Rechargeable Electric Shaver with Pop Up Beard Trimmer, Type-C USB Mens Electric Razor.",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "VILLAGE11FACTORY Cica Cream, Centella Soothing and Repairing Cream for Dry and Irritated Skin, Moisturizer, Anti-Wrinkles, Lightweight, Relieves Irritated Skin, Fragrance Free, Dermatologically Tested, 1.69 fl oz 50ml",
+        "genres": [],
+        "price": 13.89,
+        "rating": 4
+      },
+      {
+        "title": "Pretty Frank Natural Deodorant Jar- No Aluminum Deodorant for Women, Men, Teens, & Kids \u2013 Paraben Sulfate Free Cream Deodorant with Shea Butter, Coconut Oil, Vitamin E & Baking Soda (Jasmine)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "BH DERMCENTER Retinol Serum Restores Rejuvenates and Purifies Skin, 1 oz, Reduces Appearance of Fine Lines, Non-GMO, Vegan, Cruelty Free",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Rose Quartz Roller with Derma Roller 0.25mm, Facial Kit with Microneedle and Pink Jade Rollers",
+        "genres": [],
+        "price": 19.95,
+        "rating": 4
+      },
+      {
+        "title": "O!GETi Vitamin C Foam Cleanser | Foaming Facial Cleanser, Perfect Pore Cleansing Foam, Face Wash for Dry & Sensitive Skin, Sebum Reducing, Moisture Control & Minimizing Pores, Korean Skin Care, Gift for Women, Paraben-free, 4.23 Oz (120g)",
+        "genres": [],
+        "price": 14.0,
+        "rating": 4
+      },
+      {
+        "title": "2Pcs Mascara Black Volume and Length 4D Natural and Long Lasting Lash Blast Mascara, 0.27 Fl Oz",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Eyebrow Tattoo Pen, Waterproof brow Pencil, Microblading Brow Pen, Natural Looking, Long Lasting (1# Light Brown)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Big Hair Claw Clips For Women - 2 PCS 4.3 Inch Large Hair Clips For Girls Nonslip Strong Hold jaw banana Matte hair clips for Thick Hair",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Gold Collagen Under Eye Patches Mask for dark circles and puffiness by Levitural - Golden Eye Bags Treatment - Mother's Day Gift for Women",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Beautiful Girl You Can Do Amazing Things, Inspirational Gifts for Women, Christmas Gifts, Amazing Gifts for Teen Girls, Beautiful Gift Makeup Bag, Inspirational Jewelry Dish, Amazing Mirror",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "LOVE CINEMA Mascara 222",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      }
+    ],
+    "ground_truth": {
+      "title": "Ultra-Brightening Vitamin C Serum, Advanced Formula with Vitamin C Concentrate, Vitamin E, Green Tea, Aloe Vera Extracts to Revive Dull Sun-Damaged Skin, Nourishing Skincare for Healthy Glowing Complexion 2 fl. oz.",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AGVMU3ZRTWWL4I6XLIGNJCZ6EVNA",
+    "history": [
+      {
+        "title": "9A Body wave bundles with closure Brazilian human hair 4 bundles with lace closure Unprocessed Brazilian body wave virgin hair bundles with closure 4X4 Lace Middle Part (22 24 26 28+20)",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "4D Silk Fiber Lash Mascara Black, Natural Waterproof Mascara Extra Long Lash,Thick Thickening and Lengthening, No Clumping, No Smudging, Lasting Voluminous Eyelashes Dramatic Extension Mascara",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Rose Quartz Roller with Derma Roller 0.25mm, Facial Kit with Microneedle and Pink Jade Rollers",
+        "genres": [],
+        "price": 19.95,
+        "rating": 5
+      },
+      {
+        "title": "Eyelashes 3D Mink Lashes 3D Milk EyeLashes 17mm to 20mm False Eyelashes 100% Real Siberian Natural Eyelashes Luxury Reusable Handmade Fake Eyelashes 4 Pairs",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "6 in 1 Curling Irons, Hair Curling Wand Set with Hair Straightener Brush, Hair Curler Wands with 0.3-1 Inch Interchangeable Barrels Instant Heat Up Hair Curling Iron with LCD Display & Temp Adjustment",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "STARAMZ 7 Packs Big Bridesmaid Scrunchies Oversize Elastic Hair Ties Large Scrunchies Ponytail Hair Accessories Scrunchy for Girls Women (Blush)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Yolife Acrylic Nail Brush with100% Pure Kolinsky Sable, Nail Art Brush With Brilliant crystal Handle, for Manicure Pedicure (6#, Silver)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "HICOCU 25mm 3D Mink Lashes Full Volume Mink Eyelashes Fluffy Volume Dramatic 25mm Mink Lashes Extension Cruelty-free Siberian Mink Strip Eyelashes \u2026\u2026 (Y715)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Galashy Magnetic Eyelashes With Eyeliner Kit - 5 Pairs Reusable False Lashes, 2 Bottles Magnetic Liner, Tweezer Applicator Tool",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Nail File and Buffers,TsMADDTs 14 Pack Professional Manicure Tools Set with 6PCS 100/180 Grit Nail Files Double Sided Emery Board 6PCS Nail Buffer Block 120 Grit Nail Scrubbing Brush Cuticle Knife",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Headbands for Woman Pearls Headbands,Logiverl 2PCS Pearls Headband Elegant Hair Clip Hairpins Headwear Barrette Styling Tools Accessories for Christmas Gift",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AGSVNZDZNPCMXG5DEFXMZNRH2LCQ",
+    "history": [
+      {
+        "title": "6 Pack 3D Mask Bracket Internal Support Frame, Vamotto No Smell Nasal Mask Pad for Adult and Children to Creating More Space for Breathing and Protection Lipstick Ideal Makeup Saver",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Karuna Oh, Glow On Face Mask Sheet, Skincare and Beauty Facial Masks with Moisturizing and Collagen Promotion Properties for Healthy Glow, Contain Green Tea, Vitamin C and Pineapple (3 Sheets)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Zeitun Natural Anti Cellulite Body Scrub - Organic Coffee Body Scrub Exfoliator With Robusta & Dead Sea Salt - Cinnamon, Ginger And Moisturizing Oils, 7 oz",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Busy Co. Biodegradable Hydrating Hand Wipes, With Collagen and Peptides to Smooth and Improve Elasticity, 15 Individually Wrapped Wipes (Refresh Line - Fresh Citrus)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Karuna 7 Days of Glow - Face & Eye Mask Variety Pack (7 Sheets), Hydrate, Brighten and Glow",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "FRESHME Mud Mask - Facial Mask Kaolinite Clay Masks Cleansing and Moisturizing Brightening Smoothing Face Mask, 3.4 fl oz",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Spanature Lavender Hand & Body Lotion Travel Size Selection 4 Pack, Relaxing and Revitalizing Moisturizer for Rough and Dry Skin, Nourishing and Gentle for All Skin Types, Made In Korea - 75 ml/2.53oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MISS SPA Head to Toe Body and Facial Mask Set, Brighten Under-Eye, Deep Therapy Lip Mask, Moisturizing Foot Booties, Anti-Aging, Anti-Wrinkle, Skin Care for Women, 3-Pack",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Spanature Aloe Vera Hand & Body Lotion Travel Size Selection, 4 Pack, Relaxing and Revitalizing Moisturizer for Rough and Dry Skin, Nourishing and Gentle for All Skin Types, Made In Korea - 75 ml/2.53oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "WIS Hyaluronic Acid Facial Masks for Women Anti Aging, Moisturizing for All Skin Type 24 Pcs Sheet Mask, Daily Skin Care",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Crystal Glass Dappen Dishes for Nail Art Acrylic Liquid Powder and Nail Polish Removing (2, Clear)",
+        "genres": [],
+        "price": 4.99,
+        "rating": 5
+      },
+      {
+        "title": "Nose Pore Wax Strips for hair removal",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Builder Gel Nail Kit -2 oz Clear&Pink Nail Extension Gel Big Capacity Builder Gel for Nails,Hard Gel Strengthen Set with Nail Forms Brush Nail File DIY for Nail Art Manicure",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "MRTREUP Chrome Nail Powder Palette , Metallic Mirror Effect Chrome Powder for Nails , Rose Gold Sliver Pink Holographic Nail Glitter Nail Pigment Powder for DIY Salon Nail Art Decorations",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AH3DJ3EH3ENWYECXAT2STOAVLQGA",
+    "history": [
+      {
+        "title": "Donna Collection Black Weaving Thread & Needle Set",
+        "genres": [],
+        "price": 5.95,
+        "rating": 5
+      },
+      {
+        "title": "Rbenxia Bridal Wedding Crystal Hair Pins Bridal Prom Clips Pack of 20pcs Red",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "tarte Amazonian clay 12-hour wear powder blush in Glisten (a peachy-pink shade) 0.20 oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Isoplus Natural Collection Hair Freshener 2 oz. (Pack of 6)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Teenitor 20 Pair 2 Desgin Crisscross False Eyelashes Lashes With A False Eyelashes Extension Applicator Tool, Handmade Cruelty Natural Looking",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "essence | I Love Extreme Crazy Volume Waterproof Mascara | Volumizing & Longlasting for Dramatic Lashes | Vegan & Cruelty Free | Free From Fragrance, Parabens, Alcohol, & Microplastic Particles",
+      "genres": [],
+      "price": 4.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFDJOXV2NQESGBERJ5WCY77MKWYA",
+    "history": [
+      {
+        "title": "Envy Women Perfume, Blush, 60ml",
+        "genres": [],
+        "price": 19.0,
+        "rating": 5
+      },
+      {
+        "title": "4 oz - Bargz Perfume - Mambo Body Oil For Men Scented Fragrance",
+        "genres": [],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "1 oz, Dark Brown - Bargz Perfume - Kush Type Body Oil Scented Fragrance",
+        "genres": [],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "4 oz - Bargz Perfume - Polo Sport Body Oil For Men Scented Fragrance",
+        "genres": [],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "2 oz, Light Pink - Bargz Perfume - PS I Love You Body Oil For Women by BBW Scented Fragrance",
+        "genres": [],
+        "price": 13.99,
+        "rating": 5
+      },
+      {
+        "title": "16 oz, Pink - Bargz Perfume - Pink Friday By Nikki Minaj Body Oil For Women Scented Fragrance",
+        "genres": [],
+        "price": 55.99,
+        "rating": 5
+      },
+      {
+        "title": "1 oz - Bargz Perfume - Lick Me All Over Body Oil Scented Fragrance",
+        "genres": [],
+        "price": 9.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "J&H NYC 5TH AVE, Eau de Parfum Spray for Women, Vibrant, Daytime and Casual Use, for all Skin Types, a Classic Bottle,3.4 Fluid Ounce",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AHG2657OWL4JUPIKFKTSJLLO5WRQ",
+    "history": [
+      {
+        "title": "New Retro Jewelry Gun Pistol Stlyle Rhinestone Barbells Navel Belly Button Ring",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "New Handcuffs Crystal Style Navel Belly Button Barbell Rings Body Piercing Gift",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "10Pcs Pretty Colorful Dice Style Navel Belly Button Barbell Ring Body Piercing Random Colors",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Pretty Rhinestone Red Cherry Navel Belly Button Barbell Ring Body Piercing",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Crystal Rhinestone Anchor Dangle Navel Belly Button Barbell Ring Body Piercing Silver",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Refaxi 1 Pair Black Lingerie Sequin Heart-shaped Tassel Breast Bra Nipple Cover Pasties",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Beauticom Nail Polish Display Flat Top Square Shaped Stand (Fit up to 140 Bottles of Nail Polish)",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AE7P3G7DWP3VVFKOK2H2PPTK2TOA",
+    "history": [
+      {
+        "title": "Flawless Finish Foundation, Colour Changing Foundation, All-Day Flawless Foundation Makeup, Covering Imperfections Liquid Complete Foundation, Suitable for ALL Skin Types",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Flawless Liquid Foundation Cream, Liquid Foundation, Colour Changing Foundation, BB Cream, Long Lasting, Invisible Pores, Base Nude Face Moisturizing Liquid Cover Concealer,Universal for ALL Skin Type",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Rapid Reduction Eye Cream, Under Eye Cream, Under-Eye Bags Treatment, Instant Results within 120 Seconds, Rapidly Reducing Bagginess, Puffiness, Dark Circles and Wrinkles - 2Pcs",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Concealer Cream,Makeup concealer,Skin Lightening Whitening Cream,Waterproof Smooth Flawless Finish Creamy Concealer ,Suitable for s eye circles, striated lines, scars, acne, spots",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "W-Airfit Primer Face Makeup Base Pink Isolation Cream Invisible Pore,Cover Acne Marks,Smooth Skin,Oil Control Moisturizing Essence Concealer Foundation (1 pack)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Moisturising Cream, Body and Face Moisturizer for Dry Skin, Acne Cream, 2PC",
+        "genres": [],
+        "price": 8.99,
+        "rating": 5
+      },
+      {
+        "title": "Body Wax Strips, Hair Removal Waxing Strips for Face Legs Underarms Brazilian Bikini Women with 40 Count Cold Wax Strips and 5 Post Wipes",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "goPure ACTIVES Retinol Serum for Face - Anti Aging Serum, Face Serum, Eye Serum with Clinically Proven Bakuchiol Oil - Pore Minimizer Facial Serum and Dark Spot Remover for Face - 1oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Nose and Ear Hair Trimmer USB Rechargeable, 4 in 1 Upgraded Electronic Men Painless Eyebrow & Facial Hair Trimmer, Lightweight Eyebrow and Facial Hair Gentleman Trimmer With Waterproof Head",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "20 Pcs Lip Gloss Tubes Empty Balm Bottles Lip Balm Tubes for DIY Cosmetic Sample Containers",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Aisillac 20Pcs Reusable Cotton Rounds, 3.15inch Makeup Remover Pads Organic Bamboo Cotton Pads 3 Layers Zero Waste Washable Facial Cleansing Cosmetic Removal Wipe Cloth for Face Eye with Laundry Pouch",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFQQQ5LGNSQUEBGDCYBAZZE5T3DA",
+    "history": [
+      {
+        "title": "True by Made Beautiful Hydrating Hair Butter 12oz",
+        "genres": [],
+        "price": 13.99,
+        "rating": 5
+      },
+      {
+        "title": "Segbeauty empty bottle 082",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "C.O. Bigelow No. 007 Dr Hiosous Quince Hand Lotion, 4 Ounces",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "COSMETEA Korean Essence Face Masks - T1 Oolong Tea Hydrating Ampoule Full Facial Masks 10 Pack Treatments, Care Your Skin Anti-Aging, Anti-Wrinkle, Purifying, Deep Moisturizing with Hyaluronic Acid",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Elbahya Natural Hair Repair Serum - Curly Treatment for Damaged Hair with Moroccan Argan Oil and Shea Butter Serum, for all Hair Types",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "13.5 fl. Oz. Goat Milk Facial Cleanser, Moisturizing Face Wash for Women, Hydrating Natural Face Wash, Anti-aging Face Wash, Face Wash for Aging Ski",
+        "genres": [],
+        "price": 15.97,
+        "rating": 5
+      },
+      {
+        "title": "ABOUT ME MediAnswer Collagen Firming Up Mask 4ea (1box) 25g - 77% Pure Collagen Extract Anti-Aging Total Care Facial Mask Sheet, Powerful Hydrating and Anti-Wrinkle Night Skin Care",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Way Of Will Sweet Orange Body Wash, Moisturizing Body Wash with Sweet Orange Essential Oil, Body Wash for Women and Men, Paraben and Sulfate Free, 120 mL",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "4 in 1 Travel Dispenser Bottle Sets (Pink)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Brittanie's Thyme Hyaluronic Acid Serum, 8 oz, 100% Botanical Professional Clinical Strength for Face | Anti-Aging Anti Wrinkles & Hydrating Skincare Treatment",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Neva Nude Blue Myself Loose Pigment Sparkle Dust Shimmer Eyeshadow Highlighter VEGAN",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Hylunia Facial Day Lotion - 1.7 fl oz - Anti-Aging for Wrinkles - with Shea Butter, Hyaluronic Acid Serum, Zinc - Natural Vegan Moisturizer - Rapid Skin Repair",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Bloomy Essentials Organic Tea Tree Essential Oil 10 mL - USDA Certified Organic - Hair, Skin, Toenail Fungus, and Acne - 100% Pure",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Native Deodorant - Natural Deodorant For Women and Men - 3 Pack - Aluminum Free, Free of Parabens and Sulfates - Vegan, Contains Probiotics - Linen & Cotton Flower, Peony & Jasmine Tea, Sweet Almond & Honey",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Queendom Unlashed Mascara | Volumizing and Lengthening | Boosts Lash Length | Vegan, Cruelty Free, Paraben Free",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "SUR.MEDIC+ 5 Types Recharging Energy Facial Solution Mask Sheet, 10 Pack, Hyaluronic Acid, Vitamin C, Collagen, Glutathione-One Day One Sheet",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "UNPA Bye Bye Cica Serum : Deep Hydrating and Repairing Centella asiatica (Gotu kola) & Madecassoside Extract Recovery Ampoule. Moisturizer Soothes Stressed Skin & Reduces Redness, 1.01 Ounce",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Women Headband,Pack of 4 Alygado Boho Floal Style Criss Cross Head Wrap Hair Band (style21-24)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "The Cr\u00e8me Shop Korean Skin Care | But First, Water Face Moisturizer Hyaluronic Acid Water Cream for All Skin - Vitamin C, Nature, Hydrate, Smooth, Anti Aging, Acne Treatment Face Moisturizer for all skin types",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Organic Vitamin C Serum For Face with Hyaluronic Acid - Luxurious Formula Made with Only Natural Organic Ingredients. For Acne, Wrinkles, Fine Lines, Age Spots, Sun Damage (1 oz)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Higher Education Skincare: Goal Digger - Silky Moisturizing Cucumber Creme; formulated for dry and sensitive skin; cucumber extract; natural extract: melon, kale, cabbage, ginger, turmeric - 1.7 fl oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Spray Bottle, RUCKAE Airless Spray Bottle with Fine Mist Sprayer 4pcs 3.4oz/100ml + 1pc 1.7oz/50ml, Vacuum Travel Bottles Clear Refillable Container for Perfume, Toners, Soothing Water, Rose Water",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "[miclan] Honey Black Rice Moisturizing Mask 10pcs - Mediheal Family Brand Facial Sheet Mask Full of Moisturizing Revitalize Skin with Black Rice and Honey",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Easydew 2-Step Face Contour Sheet Mask - Tightening & Anti-Aging & Hydrating Korean Face Mask with DW-EGF, Hyaluronic Acid for Anti-Winkle, Reducing Fine Line & Producing Collagen (Qty 5)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "[Abib] Creme coating mask Tone-up solution 17g (5pcs)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "sdoot Misting Spray Bottle, 2 Pack 200ml Plasitc Plant Spray Bottle Refillable Clear Mist Bottle Sprayer for Hair, Cleaning",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Dr. Denese SkinScience Essential Lipid Anti Aging Power Infusion Dry Oil - Skin Nutrients 97% Organic 100% Natural - Rejuvinating Blend with Amaranth & Resveratrol - Paraben-Free, Cruelty-Free - 2oz",
+        "genres": [],
+        "price": 32.99,
+        "rating": 5
+      },
+      {
+        "title": "GIOVANNI Hemp Hydrating Hair Shine Spray, 4.3 oz. - Hemp Seed Oil, Aloe Vera, Frankincense Helps Stimulate Moisturize & Revitalize Damaged Hair, No Parabens, Color Safe, Lauryl & Laureth Sulfate Free",
+        "genres": [],
+        "price": 10.99,
+        "rating": 5
+      },
+      {
+        "title": "FRESHME Facial Sheet Masks - Hydrating Face Mask Allantoin Sodium Hyaluronate Aloe Vera and Punica Granatum Fruit Extract Moisturizing Plant Facial Mask, Combo 6 Pack",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "GIOVANNI Hemp Hydrating Hair Shine Spray, 4.3 oz. - Hemp Seed Oil, Aloe Vera, Frankincense Helps Stimulate Moisturize & Revitalize Damaged Hair, No Parabens, Color Safe, Lauryl & Laureth Sulfate Free",
+        "genres": [],
+        "price": 10.99,
+        "rating": 5
+      },
+      {
+        "title": "CURECODE Neuromide Ampoule (30 ml), Concentrated Formula of Active Ingredients, Microbiome Science for Extremely Sensitive & Dry Skin, Repair and Protect Skin Barrier Function, Brightening and Firming for Mature Skin Types",
+        "genres": [],
+        "price": 32.0,
+        "rating": 5
+      },
+      {
+        "title": "LAPOTHICELL Blemish Out Cream 50ml, Face Moisturizer, improves uneven skin tone.",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Moisturizing Facial Emulsion for Restoring Hydrating Smoothing Skin from Manilla Natural Skincare",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Caudalie Vinosource SOS Intense Hydration Set: Hydrating Trio for Sensitive Skin including a Daily Foam Cleanser, Hydrating Serum, Facial Moisturizer",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "WIS Hyaluronic Acid Moisturizing Facial Mask for Women Anti-aging, Deep Hydrating, Remove Wrinkles, 24 Pack Sheet Mask for Dry and Sensitive Skin Care",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Sweat Cosmetics Gleam On Illuminator. Water + Sweat Resistant Vegan & Cruelty-Free Mineral Shimmer and Highlighter Makeup Brush with SPF 25 Protection",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Klavuu Nourishing Care Lip Sleeping Pack- Overnight Exfoliating & Nourishing Lip Treatment Balm for Dry Lips - Natural Moisturizing Lip Oil with Vanilla Flavor - Lip Balm to Repair & Protect Lips 0.7oz.",
+      "genres": [],
+      "price": 12.0,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AGRF2TRX4IBMIXQBGCT7XVY32YQA",
+    "history": [
+      {
+        "title": "Long Butterfly Locs Crochet Hair 6 Pack 24 Inch Soft Distressed Locs Hair Pre Looped Crochet Braids For Black Women Synthetic Hair Blonde Color 72 Strands (24 Inch-6 packs, 613# Butterfly Locs Hair)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Mocossmy Cross Nail Art Charms Decoration,72 PCS Gold Silver 3D Mini Metal Punk Vintage Cross Designs Mixed Types Retro Acrylic Nail Jewelry Accessories for Women Girls DIY Manicure Crafts Decoration",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Letter Nail Art Stickers Decals 3D English Alphabet Nail Art Supplies Self-Adhesive Sticker Letters Design for Acrylic Nails Metal Charms Manicure Tips Decorations Bright Colors 8pcs/Pack",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MRTREUP Hair Brush Spray Set With Detangling Wide Tooth Comb And Detanger Brush For Curly Hair With Hair Mist Spray Bottle 10oz Curl Hair Tools For Women Men Black Natural Hair 3a To 4c Hair Types",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "ZILING Body Wave 13x4 Lace Front Wigs Human Hair for Black Women Pre Plucked with Baby Hair 150% Density Brazilian Body Wave Human Hair Lace Front Wigs 16 Inch",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "AVELLABEE Braided Wigs for Black Women 36 inches Knotless Box Braid Wig 13x6\u2019 Lace Frontal Synthetic Wig with Baby Hair Cornrow Twisted Braids Wig Super Lightweight Natural Looking (1B (Black))",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "MilyBest Fluffy Lashes False Eyelashes Natural Look Cat Eye Lashes, Dramatic Faux Mink Lashes 3D Effect 18mm D Curl Volume Extension Reusable Wispy Lashes Pack 10 Pairs",
+      "genres": [],
+      "price": 6.45,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFLI33M7ADMQ2B3DSIJLODWUHTAA",
+    "history": [
+      {
+        "title": "Magnetic Eyelashes by UJM\uff0c3 Pairs Reusable Magnetic Eyelash and Eyeliner Kit Natural Look False Lashes with Mirror and Tweezers No Glue Needed Waterproof Magnetic Lashes Set",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "20 PCS Zoostliss Nail Polish Remover Clips",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Catrice | SUNGASM Luminizing Bronzer 01 | For A Sun-Kissed Shimmery Finish | Highly Pigmented & Blendable | Vegan, Paraben Free, Oil Free | Cruelty Free",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "3D Mink Eyelashes Natural Long Lashes 2 in 1 Self-adhesive Eyeliner Instead of Adhesive 5 Different Styles Pairs Kits Sets with Tweezers , NO NEED GLUE",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "10 Pack Wide Headbands, 4 Style knot Turban Hairband Vintage Head wrap Hair Band Elastic Hair Accessories",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "lorelo 20 pieces Hair Curlers, Hair Rollers Spiral Curls Styling Kit No Heat Hair Curlers with Styling Hooks for Girls Woman",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Qiray Hair Ties For Women Coil Hair Ties,Large Lace Phnom Penh,5 Colors 10 Pieces.",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Baroque Rhinestone Padded Headband For Woman Girls Statement Wide Hairbands Bejewelled Party Wedding Headwear Hair Accessories (rainbow beaded)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Padded Rhinestone Crystal Headband Bejewled Wide Velvet Hairband Statement Bridal Wedding Party Headwear Hair Hoop Hair Accessories (rainbow)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Rhinestone Crystal Padded Headband Bejewelled Velvet Wide Hairband Hair Hoops Wedding Bridal Party Headpiece Headwear For Woman Girls (rose)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Unny Club Black Square Lipstick (Burning) | matte lipstick",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Rhinestone Padded Headband Bejewled Crystal Wide Velvet Hairband Sparkly Wedding Party Headband Hair Accessories For Women Girls (silver)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Gel Nail Polish Set, Holiday Red Black 6 Colors Gel Polish Kit Popular Nail Art Design Soak Off LED Lamp Nail Polish Gel Manicure Kit Gifts Set for Girls Women Professional DIY Home Use",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Nail Polish Set - Eternal 4 Piece Kit: Long Lasting, Quick Dry and Cruelty Free. Made in USA - 0.46 Fluid Ounces Each (Girly Nautical)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Glow Line Individual Hand Wipes - Hand Wipes Travel Size, Lavender Rose Travel Hand Wipes - Moist Towelettes Individually Wrapped, Wet Wipes Individually Wrapped w/Murumuru Seed & Peptides - 15 ct",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "NAILGIL Poly Nail Gel (Temperature)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "3 Barrel Curling Iron, Milantia 3/4 Inch Mini Travel Curling Wand Hair for Small Curly, Dual Voltage Ceramic Tourmaline 19mm Crimper Hair Iron for Women - Fast Heating, Portable",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Yolife Acrylic Nail Brush with100% Pure Kolinsky Sable, Nail Art Brush With Brilliant crystal Handle, for Manicure Pedicure (6#, Silver)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "ROSEGIN 23 Pcs Gel Nail Polish Set with Glossy and Matte Top and Base Coat Soak Off Gel Polish Colors Pink Red Green Neon Long Lasting Nail Gel Polish",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Biutee Nail Mirror Powder4 Boxes 8 Colors 0.5g with 4 Brushes Nail Chameleon Powder Nail Glitter Nail Chrome Powder Manicure Unicorn Chrome Pigments",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Hair Bands for Women's Hair, Fashion Headbands, Headbands for Women, Headband for Fitness, Head Band for Outdoor Activities, Gift Pack 2pc, High Elastic, Non Slip, Breathable, Soft.",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Satin Elastic Scrunchies for Women Girls,5 Pack Black Soft Ponytail Holder Great for thick or thin hair, Hair Accessories by TTKLYN",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "HEXZE-emoji the iconic brand Moisturizing Lip gloss Long Lasting Kissproof pigmented matte liquid Lightweight-S08",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "ESPOIR Contour Powder #3 Light Gray | Natural Shadowing Effect with Flawless Tone | Light-Silky Veil Texture",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "UNNY CLUB Cover Glow Cushion 0.3 Oz / 11g Beige Color SPF50+, Flawless Gloss Cushion Powder Complex Single Layer Concealer Cover Moisture Essence Tight Fit, Korea Cosmetics (No.21 Light Beige)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "UNNY CLUB Cover Glow Cushion 0.3 Oz / 11g Beige Color SPF50+, Flawless Gloss Cushion Powder Complex Single Layer Concealer Cover Moisture Essence Tight Fit, Korea Cosmetics (No.23 Natural Beige)",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AH6JLX5SJSUOJBBT6RRE2RDXIG6A",
+    "history": [
+      {
+        "title": "Gaming Headphones Chamvict Xbox One Headset with Stereo Sound Ps4 Headset with Mic Noise Canceling for PS4,PC,Laptop,Cell Phone,Xbox,Find Enemies Before They Find You",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Padded Rhinestone Crystal Headband Bejewled Wide Velvet Hairband Statement Bridal Wedding Party Headwear Hair Hoop Hair Accessories (rainbow)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Hemp Lotion for Dry Skin - Soothing Rose Flower & Aloe Hydrate Your Complexion - Non-Greasy, Vegan, 7Oz, 250Mg Hemp, Fragrance & Paraben Free - Guayaquil By La La Leaf",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Altaba Long Wavy Wigs Ombre gray Wig Synthetic Wigs Middle Part Natural Looking Heat Resistant Party Cosplay Full Wig for Women",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Hetianmei\u00ae Pink Rhinestone Headbands for Women\uff0cJewel Headband\uff0cBling Diamond Headbands Crystal Fashion Sparkly Jeweled Thick Headbands for Woman",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "MAELYS VIRTUE Neck Firming Cream",
+        "genres": [],
+        "price": 54.0,
+        "rating": 5
+      },
+      {
+        "title": "Altaba Long Blonde Wavy Wigs for Women Ombre Blonde Middle Part Wigs Natural Looking Synthetic Wig Party Cosplay Wigs for Women Heat Resistant Fiber (Light Brown to Golden)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "NOBLE Wigs for White Women Purple Lace Wigs for Black Women 27 Inch Long Curly Wavy Colored Wigs Middle Part Heat Resistant Synthetic Ombre Purple Wavy Wigs for Daily Party Cosplay Use",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "NOBLE Synthetic HD Lace Wigs with Bangs 20 inches Synthetic Natural Wavy Wigs with Air Bangs Ombre Brown Blonde Color",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "EMILIE HEATHE - Lip Atelier Lip Color | Sustainable, Cruelty-Free, Clean Beauty (Public)",
+        "genres": [],
+        "price": 30.0,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Beauty Bakerie Lip Whip Liquid Metallic Lipstick, Long Lasting Lip Color, Smudge Proof Makeup, Berried, 3.5 mL",
+      "genres": [],
+      "price": 22.0,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AG4GOFTDXL3X56K4JFTHTAU5SQ5A",
+    "history": [
+      {
+        "title": "Segbeauty empty bottle 160083",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Detangling Brush for Black Natural Hair,Hair Detangler Brush for African American 3a/4b/4c Kinky Wavy,Curly,Coily,Thick Hair, Wet n Dry,Improve Hair Texture-Easy Clean (Pink with Big Handle)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Spring Twist hair 3PCS Crochet Braids Hair Synthetic Hair 8 Inch Jumbo Twist Braiding Hair Extensions Natural Black",
+        "genres": [],
+        "price": 19.88,
+        "rating": 4
+      },
+      {
+        "title": "LEOSA Headband Wigs for Black Women, Kinky Curly Wig with Headband Attached Synthetic Short Deep Curly Full Wig with Colorful HeadWrap Wig Easy to Wear Machine Made Wigs Head Wrap Wig 2 in 1 10inch",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Abbily Hair Curly Human Hair HeadBand Wigs Human Hair for Black Women Glueless 9A Grade Brazilian Virgin Human Hair Headband WigS 150% Density Machine Made Wigs Natural Color(14 Inch Headband Wig)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "HANNE Afro Dreadlock Headband Wigs for Black Women Crochet Twist Braided Synthetic Wigs Twist Braiding Dreadlocks Wig for Africa Americans (1B/30)",
+      "genres": [],
+      "price": null,
+      "rating": 3
+    }
+  },
+  {
+    "user_id": "AFX3WGW5OKZ2UMEMERVISBES6WZQ",
+    "history": [
+      {
+        "title": "Makone Crystal Crowns and Tiaras with Comb Headband for Girl or Women Birthday Party Wedding Prom Bridal Christmas Valentine\u2026 (03 Pink)",
+        "genres": [],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Makone Crystal Crowns and Tiaras with Comb Headband for Girl or Women Birthday Party Wedding Prom Bridal Christmas Valentine\u2026 (03 Pink)",
+        "genres": [],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Sallcks Short Gray Wig Layered Pixie Natural Halloween Cosplay Costume Wig Synthetic Heat Resistant Hair Wigs for Women",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Sallcks Short Gray Wig Layered Pixie Natural Halloween Cosplay Costume Wig Synthetic Heat Resistant Hair Wigs for Women",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Bohend Boho Headband Wide Elastic Boho Bandeau Criss Cross Hair Band Sports Yoga Daily Use Hair Accessories for Women and Girls (A)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Bohend Boho Headband Wide Elastic Boho Bandeau Criss Cross Hair Band Sports Yoga Daily Use Hair Accessories for Women and Girls (A)",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AEHNRIRHKXUWYPIEPZ3HTSJQUAYA",
+    "history": [
+      {
+        "title": "1 oz, Light Pink - Bargz Perfume - PS I Love You Body Oil For Women by BBW Scented Fragrance",
+        "genres": [],
+        "price": 9.99,
+        "rating": 4
+      },
+      {
+        "title": "1 oz, Light Orange - Bargz Perfume - Rossas The Chlo Body Oil For Women Scented Fragrance",
+        "genres": [],
+        "price": 9.99,
+        "rating": 5
+      },
+      {
+        "title": "Premium Two-Sided Vanity Makeup Mirror with Natural White LED Lights for Bathroom or Bedroom, 1x 10x Magnification, with Rechargeable Battery and Wireless",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Labello Watermelon Shine Lip Balm - 3 pack",
+        "genres": [],
+        "price": 13.99,
+        "rating": 4
+      },
+      {
+        "title": "Kiko Milano - Long Lasting Eyeshadow Stick 07 Extreme Hold Eyeshadow Stick",
+        "genres": [],
+        "price": 11.5,
+        "rating": 3
+      }
+    ],
+    "ground_truth": {
+      "title": "Pack of 2 Milani Moisture Lock Peach Seed Oil Infused Lip Treatment, Rejuvenating Peach Mango (03)",
+      "genres": [],
+      "price": 31.5,
+      "rating": 3
+    }
+  },
+  {
+    "user_id": "AGLNOSRFRMEFOJA5DIGMB2PTCOUQ",
+    "history": [
+      {
+        "title": "LSxia 8PCS Braided Hair Clips for Braids, Four-Leaf Clover Chopped Hairpin Duckbill Clip with 3 Small Hair Clips for Styling, Sparkling Rhinestone Crystal Stone Braided Hair Clip for Women",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Success at Once Self Straight Magic Perm at Home Easy & Fast Made in Korea",
+        "genres": [],
+        "price": 25.89,
+        "rating": 3
+      },
+      {
+        "title": "3 PCS Bracelet Hair Ties With Black Elastic, Hair Ties Bracelet for Women, Looks Awesome On Your Wrist and Great In Your Hair",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "ONIYEA Skin Rejuvenation Beauty Device for Face and Neck, For Skin Tightening, Neck Lifting, Anti Wrinkle, Face Lifting, Skin Care for Women, Neck Skin Vibration Massager (White)",
+        "genres": [],
+        "price": 19.99,
+        "rating": 4
+      },
+      {
+        "title": "Mighty Patch Chin from Hero Cosmetics - XL Contoured Hydrocolloid Chin Patch for Blemishes and Pimples, Non-Irritating, Vegan-Friendly, Not Tested on Animals (10 Count)",
+        "genres": [],
+        "price": 17.99,
+        "rating": 1
+      }
+    ],
+    "ground_truth": {
+      "title": "eZn Dr.Bond Special Hair Damage Care Set",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AH3LCIJ2GDAFIYB7FCHW2BW5F6KA",
+    "history": [
+      {
+        "title": "Magnetic Eyelashes by UJM\uff0c3 Pairs Reusable Magnetic Eyelash and Eyeliner Kit Natural Look False Lashes with Mirror and Tweezers No Glue Needed Waterproof Magnetic Lashes Set",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Empty Plastic Mini Fine Mist Spray Bottles Refillable Pump Bottle 3.4oz / 100ml Small Travel Size with Labels Funnels Cleaner",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "UQINZ Short Black Mixed Brown Kinky Curly Synthetic Hair Full Wigs with Bangs Wigs for Black Women(T2/30)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "ColorGround Long Blonde Braid Cosplay Wig for Women and Girls (Adult Size)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "JulyQueen 165g Crochet Braiding Hair Light Blue Crochet Hair for Black Women Synthetic Hair Extension Fold Length 41 Inch 3 Pack",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "STYLEAGAL Portable Electric Nail Drill, Manicure Pedicure Drill Kit Professional nail starter kit for beginners acrylic with drill\uff082020 Upgraded\uff09",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AGAV7IY4HWGYRUIAGUZRXYUJ22DA",
+    "history": [
+      {
+        "title": "[Old Version] QuickBooks Desktop Pro 2019 with Enhanced Payroll [PC Disc]",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Livordo Moroccan Argan Oil Essential Organic Cold Pressed Skin Moisturizer Rich in Vitamin E Powerful Antioxidants For Skin, Hair, Body, and Face 4 Oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "C.O. Bigelow No. 007 Dr Hiosous Quince Hand Lotion, 4 Ounces",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "12ML Refillable Perfume Atomizer Bottle for Travel Spray Scent Pump Case Pack of 5",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Bomb Twist Crochet Hair(Spring twist hair, passion twist hair) 20 inch 6 Packs Pre-twisted Crochet Hair Synthetic Braiding Hair for Women (T27, 20 inch)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "24 Inch Kai Twists Crochet Hair 8 Packs Pre-looped Mini Passion Twist Pre-twisted Long Soft Bohemian Twist Crochet Braids With Curly End (30# Embellished With 27#)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Beauty Bakerie Lip Whip Liquid Metallic Lipstick, Long Lasting Lip Color, Smudge Proof Makeup, Berried, 3.5 mL",
+      "genres": [],
+      "price": 22.0,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AHHHKYBB6RMQEUEYXU4WZAZFQAVQ",
+    "history": [
+      {
+        "title": "Baisidai 10 PCS Buffer Block for Nail Art Tool (Purple)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Ors Olive Oil Conditioner Replenishing 12.25 Ounce (362ml) (2 Pack)",
+        "genres": [],
+        "price": 19.99,
+        "rating": 5
+      },
+      {
+        "title": "Amanda Short Bob Human Hair Wigs with Bangs Brazilian Virgin Human Hair 8 inch Straight Bob Wigs 130% Density Glueless Machine Made Human Hair Wigs for Women",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "13\u00d74 Lace Frontal Wigs Human Hair Brazilian Body Wave Hair Lace Wigs 130% Density Pre Plucked Human Hair Wigs Hairline Natural Black(12\")",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Duevin 10pcs Hair Removal Tool Container Aluminum Foil Bowl Wax Bean Melting Wax Bowl",
+        "genres": [],
+        "price": 6.87,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "T Part 13x1X5 Lace Front Wigs Human Hair Highlight 150% High Density Brazilian Remy Brown Wigs Ombre Color T-Part Lace Front Human Hair Wigs Pre Plucked with Baby Hair(14 Inch Middle Part)",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFAZJRDZGEXDJ4LJYJVHVEWOOMVA",
+    "history": [
+      {
+        "title": "Jasmine Essential Oil",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "LACEY 3 inch Pony Fastener Hair Scrunchie - 36 Chestnut Brown with 10% Gray",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Fashion Hair Bun Beautiful Ponytail Extensions Hair Piece Charming Hair Wrap -Dark Brown",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Kalyss Women's Short Bob Style Dark Brown With Blonde Highlights Yaki Synthetic Hair wigs with Hair Bangs Hair Replacement Wig for Women",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "KATIE 7-inch Pony Fastener Hair Scrunchie by Mona Lisa - 10 Medium Brown",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Parcelona French Dentelle Small 2 Inches Tortoise Shell Jaw Hair Claw Clip Clamp Clutcher 2 Pieces",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AEZG2W4TRMMNFFAWS2BPQE676K4Q",
+    "history": [
+      {
+        "title": "Panama Jack Sunscreen Lip Balm - SPF 45, Tropical & Mango 6 Pack Plus, Broad Spectrum UVA-UVB Sunscreen Protection, Prevents & Soothes Dry, Chapped Lips",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "WIOR Peacock Headband for Women, Fashion Peacock Hair Clip, 3 Pcs Peacock Feathers Hair Clip Peacock Flapper Headband with Pearls & Diamonds Hair Accessory for Girls Ladies Wedding Party Festival Prom",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Bodyguard Moisturizing Immunity Soap 6pk | 7 Essential Oils Clinically Evaluated to Boost Immunity and Protect | Moisturizes with Sweet Almond Oil | Healthy PH for Skin Microbiome",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "CONBOLA Make Up Organizer 5 in 1 Dresser Organizer,Portable for Lipstick and Jewlry ,Makeup Organizer and Temporary Makeup Brush Holder,Multi-purpose for Girl Women.36.6cm18cm.(Blue)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Alteya Organics Sunscreen Rose Face Cream Spf 30, 50 ML",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "BeeTheLight Pure Castile Soap - 12 small Bars - Choose from Peppermint, Orange Citrus, Lavender, or Unscented - Made from 100% Fair Trade and Organic oils - Vegan - 6 two-packs (30 oz)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "BABOR Power Serum Ampoules - Hyaluronic Acid | Moisturizing Smoothing and Plumping | 8D Hyaluronic Acid and Tripeptide Intensely Hydrate All Skin's Layers | 7 Days to Hydrated Skin",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "NIRA Skincare Laser & Serum Bundle - Includes Anti-Aging Laser & Hyaluronic Acid Serum - Reduces Appearance of Fine Lines & Wrinkles - FDA Cleared",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AFEYLO2BKJA2CAG6QGE55RGC7PDA",
+    "history": [
+      {
+        "title": "BJ\u00d6RN HALL Nurse Headband with Buttons for Face Mask | Elastic Swimsuit Material, Smooth & Stretchy | Ear Saver Headband with Buttons | Perfect for Nurses, Doctors & Medical Students",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Ice Roller for Face & Eye by Charmlily, Puffiness, Migraine, Pain Relief - Cold Facial Massager Treatment to Reduce Puffy Face & Tighten Pores, Under Eye Wrinkles (Blue)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "[Marshique] Patented Eyelash Dryer - Extension & Lift/Perm Care Mascara Dry No Damage Curl USB Rechargeable",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "AMOREPACIFIC Color Control Cushion Compact Broad Spectrum SPF 50+",
+        "genres": [],
+        "price": 75.0,
+        "rating": 2
+      },
+      {
+        "title": "Topwon 4.5Inch Makeup Remover Pads Washable Cotton Face Cleansing Pad for Sensitive Skin 3 Packs Facial Washing Puffs to Remove Mascara Foundation Lipstick",
+        "genres": [],
+        "price": 10.99,
+        "rating": 5
+      },
+      {
+        "title": "YERMA Makeup Face Primer with Brush - Instant Brightening and Whitening, Minimize Pores and Fine Lines, Natural Ingredients Moisturizing Primer for All Skin Types, Illuminate and smooth skin surface",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Peripera Ink Mood Matte Lipstick, Lightweight, Matte, Smooth, Hydrating, Lasting Color Payoff (02 Pink Go Up)",
+        "genres": [],
+        "price": 9.9,
+        "rating": 5
+      },
+      {
+        "title": "Eyebrow Stamp Stencil Kit 2 Colors Waterproof and Long Lasting One Step Easy Color Brow Stamp with 24 Eyebrow Stencils, 1 Brush and 1 Razor, Dark Brown and Light Brown",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Nose Pore Wax Strips for hair removal",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "So'Bio \u00c9tic | Anti-Fatigue Smoothing Eye Contour | Organic Eye Cream for Brightening & Plumping Under Eye Bags, Dark Circles, Wrinkles & Anti-Aging | 0.51 fl oz",
+      "genres": [],
+      "price": 15.8,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AE5DEJMH2W2GCWTYFWBVHA5SEOLQ",
+    "history": [
+      {
+        "title": "The Stylist Synthetic Lace Front Wig Hand-Tied Curved Part Perfect Bob (2)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "LOVATIC Teeth Whitening Pen - 2 Packs - Advance Teeth Whitening Solution - 35% Carbamide Peroxide - Safe, Convenient and Effective",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "VRHOT 10 inch Lace Closure Deep Wave 4x4'' Free Part Lace Closure Brazilian Virgin Remy Human Hair 100% Unprocessed Natural Color Soft Silky Hair Products for Black Women 8''-20'' (10 inch)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "VRBest Brazilian Virgin Hair 3 Bundles With Closure 100% Unprocessed Human Hair Weave Extensions With Lace Closure Brazilian Body Wave (18 20 22 +16, Free Part)",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Sunwell Weave Hair Human Bundles of Brazilian Hair Extensions Human Hair Bundles Kinky Curly Natural Color 8\" 10\" 12\"",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      }
+    ],
+    "ground_truth": {
+      "title": "YHL Hair Brazilian Loose Wave 3 Bundles With Closure Free Part Unprocessed Virgin Human Hair Bundles With 4x4 Lace Closure Natural Color (12 14 16 with 12)",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFSPGS44EYOO4ZLJY4ZBIWNMTDOA",
+    "history": [
+      {
+        "title": "i02 - Cuticle Pusher in Leather FINOX Surgical Stainless Steel German Manicure Pedicure Tool Cuticle Remover GERmanikure Solingen",
+        "genres": [],
+        "price": 11.95,
+        "rating": 4
+      },
+      {
+        "title": "Gelish Harmony Fantastic Four Soak-Off Gel Polish Kit for LED Lamp - Foundation, Top Coat, Cuticle Oil, pH Bond Set - w HumanFriendly Travel Nail File",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Bins & Things Nail Polish Organizer | Thread Spools Storage Case (48 Slots) Heavy-Duty Sewing, Embroidery, and Craft Box | Essential Oils Organizer | Travel-Friendly Carry Handle",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "byAlegory Acrylic Medium Eyeshadow Palette Makeup Organizer W/ Removable Dividers Designed To Stand & Lay Flat | 8 Space Organization Container Storage - Fits Standard Size Palettes - Clear",
+        "genres": [],
+        "price": 23.99,
+        "rating": 3
+      },
+      {
+        "title": "Yiwamica Magnetic Eyelashes to Use with Magnetic Eyeliner 5 Magnets False Lashes 3 Style",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      }
+    ],
+    "ground_truth": {
+      "title": "CARETHYS Upgraded Magnetic Eyeliner Eyelashes Kit, Waterproof Magnetic Liquid Eyeliner With 3 Pair Long Thin Magnetic False Eyelash,Natural Look,With Tweezers",
+      "genres": [],
+      "price": null,
+      "rating": 2
+    }
+  },
+  {
+    "user_id": "AGZEZPXVDZD6CDKRCX6M7NMUWICQ",
+    "history": [
+      {
+        "title": "Anti Aging Neck and Face Firming and Tightening Cream - 2 oz. With Hyaluronic Acid, Coenzyme (CoQ10), Licorice, Vitamin C, Glycolic. For sagging skin and wrinkles",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Soft & Dri, Aerosol, Antiperspirant Deodorant, Signature Soft Scent, 6OZ, Pack of 3",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Genuine Authentic German Nivea Deodorant Fresh Pure Aluminum Free 1.69 fl.oz/50ml",
+        "genres": [],
+        "price": 8.99,
+        "rating": 4
+      },
+      {
+        "title": "Magnetic Eyelashes Kit, Glue-free Magnetic Eyelash Clip & False Eyelashes Set, Soft Magnetic Eyelashes, Natural Look",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "KXAMELIE Pink Press on Nails Short,Summer Flower Pattern Nails with Salon UV Finish,Matte Reusable Short Square Shape Fake Nails,Opaque Natural Look False Nails in 12 Sizes-24 Glue on Nails Set",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      }
+    ],
+    "ground_truth": {
+      "title": "24 Pcs Press on Nails Short, Summer Fake Nails French Tips Glue on Nails, Glossy False Nails with Designs, Short Acrylic Nails for Women and Girls (Lemon Fruit)",
+      "genres": [],
+      "price": null,
+      "rating": 1
+    }
+  },
+  {
+    "user_id": "AHWLAJMDMMY3U64I5ISWYBVE3S7Q",
+    "history": [
+      {
+        "title": "Boiess Colognes Poppy mint For Moms, Babies & Kids | Natural Eau de Cologne | Clean & Fresh Scent | Children Fragrance For Soft & Sensitive Skin | Easy Use, Gentle on Baby | Size: 8.5 FL Oz",
+        "genres": [],
+        "price": 22.9,
+        "rating": 4
+      },
+      {
+        "title": "Vegan Mia - USDA Organic Radiance Superfruit Cleansing Oil and Make-up Remover, Oil Cleanser and Makeup Remover Oil for Dry Skin and Other Skin Types, Loaded with Moisturizer Essential Fatty Acids, Rich in Antioxidants, Truly Natural Skincare, (With No Added Fragrance) 3.4 fl oz",
+        "genres": [],
+        "price": 31.0,
+        "rating": 4
+      },
+      {
+        "title": "6Pcs Silk Hair Scrunchies, 100% Mulberry Silk Hair Ties Cute Large Scrunchie For Thick Curly Hair No Crease Soft Elastic Hair Bands, Elastic Silk ponytail Holders Sleep and Night Scrunchie for Girls Women\u2026",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "1oz. Tree-topped Mustache Wax Tacky Firm - from Green Beard Grmng",
+        "genres": [],
+        "price": 12.99,
+        "rating": 5
+      },
+      {
+        "title": "EMILIE HEATHE - Lip Atelier Lip Color | Sustainable, Cruelty-Free, Clean Beauty (Public)",
+        "genres": [],
+        "price": 30.0,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "Satin Bridesmaid Scrunchies Bachelorette Hair Ties Set of 6 sunglasses Bridal Shower No Damage Hairties ideas Gift for Wedding Party Favors Bridesmaid Proposal Gifts (12pcs Sage Green)",
+      "genres": [],
+      "price": 39.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AHXAZ5OP2CTVTPDKXKJELWMKQ4RQ",
+    "history": [
+      {
+        "title": "eNilecor Short Hair Wigs Pixie Cut Light Blonde Natrual Curly Wigs for Women with Side Bangs Trendy Synthetic Wig with Wigs Cap (7.8\" Blonde)",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "COSYCODE Blonde Bob Wig with Bangs 12 inches Short Synthetic Wigs for Daily Wear Halloween Party",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "YIROO Ombre Blonde Loose Curly Lace Front Synthetic Wigs for Women 20 inches With Natural Hairline 2 Tones 4/27 Color Deep L Part Hair Glueless High Density Wig (20 inches, OT4/27)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "SINGLE BEST Ombre Color 1b27 Short Pixie Cut Wigs T Lace Frontal Wigs Side Part Short Bob wigs for Black Woman Brazilian Virgin Human Hair Haircuts Natural Hairline",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Ombre Blonde Wavy Lace Front Synthetic Wig Long Curly Wigs for Women, 3 Tone Dark Root to 27# Blonde to 613# Heat Resistant Fiber L Side Parting Wig(16inches, Ombre Brown Blonde)\u2026",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Ombre Dark Blonde Curly Lace Front Synthetic Wig for Women, 18 inch Kinky Afro Curly Middle Part Wigs Half Hand Tied Hairline Natural Color (18 inch, Ombre Blonde)",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Womens Short Blonde Wig Synthetic Ombre Blonde Bob Wig with Bangs Natural Straight Hair Wig for Party Daily Wear",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "AISI QUEENS Short Curly Wig Black Wavy Bob Wigs for Women Synthetic Middle Part Shoudler Length Heat Resistant Wig for Daily Party Use 14 Inch",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "4 oz - Bargz Perfume - Oxygen Body Oil For Women Scented Fragrance",
+        "genres": [],
+        "price": 19.99,
+        "rating": 3
+      }
+    ],
+    "ground_truth": {
+      "title": "1 oz, Light Gold - Bargz Perfume - Angel Gold Body Oil For Women by Victoria's Secret Scented Fragrance",
+      "genres": [],
+      "price": 9.99,
+      "rating": 3
+    }
+  },
+  {
+    "user_id": "AH23OXTW7BKRZ3YB6JBQGFB3SMIQ",
+    "history": [
+      {
+        "title": "20 PCS Zoostliss Nail Polish Remover Clips",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Cortex International Black Series Duo Platinum 1.25-Inch & 0.5 Inch Travel Size Gemstone Infused Ceramic Plates Duet Flat Iron (Rose Wood)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "LEAP Lemongrass Hand Soap, Natural & Moisturizing Lather, Gentle & Rinses Clean, Made with Organic Oils, Cruelty Free & Vegan, Liquid Hand Wash, Superbly Designed, 12 fl oz",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "7pcs Pearl Hair Clips Large Hair Clips Pins Barrette Ties Hair Headwear Barrette for Party Wedding Daily, Gift for Girls and Women",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MIZON Cicaluronic Line, Cicaluronic Cleansing Balm, Makeup Remover, Centella Asiatica,Hyaluronic Acid, One Step Cleansing (2.7 fl oz)",
+        "genres": [],
+        "price": 18.0,
+        "rating": 5
+      },
+      {
+        "title": "lootaan 500 Pieces False Nails French Acrylic Fake Nails Tips Half Cover Artificial Fake Nails With Box and False Nail Clipper for Women Girl",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "L'UGX White Nail Drill, 35000 RPM Electric Nail File, Professional Acrylic Nail Machine, Efile Cordless Portable, Beautiful Shape, Intelligent, High-grade Nail Tools",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Aloe Hand Sanitizer 24 Pack Dearskin Aloe Vera Moisturizing Alcohol 75% Gel 2 Fl Oz/60ml Skin Care Natural Advanced Formula Alcohol Refreshing Moisturizing with Argine.",
+        "genres": [],
+        "price": 24.99,
+        "rating": 5
+      },
+      {
+        "title": "Buladou Hair Natural Looking Straight Fake Scalp None Lace Short Synthetic Bob Wigs with Dark Roots Medium Length Ombre Bob Heat Resistant Fiber Wigs For Black Women",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Gel Nail Polish Set, Holiday Red Black 6 Colors Gel Polish Kit Popular Nail Art Design Soak Off LED Lamp Nail Polish Gel Manicure Kit Gifts Set for Girls Women Professional DIY Home Use",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "20pcs Nail Tips Clips for Quick Building Polygel Nail Forms Nail Tips Clip for Finger Nail Extension DIY Manicure Nail Art Tool",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Pine Gel Nail Polish Set 6 Colors Purple Blue Cat Eye Glitter Gel Polish 7.5 ml Soak Off UV LED Cure Home Salon Manicure",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "M-BOX Hair 12 Inch Wavy Bob Wig with Bangs Short Curly Bob Wigs Shoulder Length Synthetic Wigs for Women Burgundy Fluffy Pastel Colored Wigs for Girls (12\",#bug)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Long Black Wavy Wig with Bangs for Women Synthetic Wigs Natural Looking Realistic Wigs Hair for Daily Party Cosplay Use",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Vcedas French Nail Tips 1.18 Inch Half Cover False Nails 200PCS Lady French Acrylic Style Artificial False Nails (Clear)",
+      "genres": [],
+      "price": null,
+      "rating": 2
+    }
+  },
+  {
+    "user_id": "AG644AQBRT56BVFDCJMISCNTSRMA",
+    "history": [
+      {
+        "title": "Godefroy Tint Kit for Spot Coloring, Dark Brown",
+        "genres": [],
+        "price": 24.95,
+        "rating": 3
+      },
+      {
+        "title": "Segbeauty empty bottle 290",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "QIC 4D Silk Fiber Lash Mascara, Fiber Mascara, Waterproof Mascara, Natural Thick Thickening and Lengthening Mascara Lasting All Day",
+        "genres": [],
+        "price": null,
+        "rating": 1
+      },
+      {
+        "title": "Magnesium Serum For Kids - All Natural Rub for Kids and Babies, Toxic Free + Free Magnesium Chart PDF",
+        "genres": [],
+        "price": 25.99,
+        "rating": 5
+      },
+      {
+        "title": "Empty Clear Glass Spray Bottles 2-PACK,Refillable 16 oz Containers for Essential Oils, Cleaning Products, Aromatherapy, Misting Plants, or Cooking - Reliable Sprayer with Mist Settings",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Ice Roller for Face & Eye by Charmlily, Puffiness, Migraine, Pain Relief - Cold Facial Massager Treatment to Reduce Puffy Face & Tighten Pores, Under Eye Wrinkles (Pink)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "SOFTACULOUS Foot Peeling Mask Booties \u2013 2 Pairs, Baby Soft Skin in 7 Days",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Asenlin Hair Ties Bands 4MM Durable Neutral Ouchless Accessories for Women Men Girls No Metal Elastics Thick Tie with Strong Ponytail Holder and for Medium Hair(24 Count of 3 Pack)-Black",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "50th Birthday Gifts for Women, 40th Birthday Gifts Women, 60th Birthday Gifts for Women, Gift Basket for Women, Spa Gifts for Women, 30th Birthday Gifts for Her, 70th Birthday Gifts for Women \u2013 7 PC",
+      "genres": [],
+      "price": 36.95,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFBSVJUDZG2GYOHI7NBFBA3NTZ6Q",
+    "history": [
+      {
+        "title": "Healthy Care Lanolin Cream with Grape Seed Oil 100g (Made in Australia)",
+        "genres": [],
+        "price": 11.99,
+        "rating": 1
+      },
+      {
+        "title": "Magic Soak-Off Gel Nail Polish Remover,Professional Remover Nail Polish Delete Primer Acrylic Clean Degreaser For Nail Art Lacquer, Easily & Quickly -15ML (1 Pack)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "54W UV LED Nail Lamp,Golspark Faster Nail Dryer for Gel Polish,LED Curing Nail light with 3 Timer Setting,Auto Infrared Sensor Professional Nail Art Tools Pink",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Missha -Long Lasting C Curl Volume Boost Mascara, Line Friends Edition",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "New York Bright & Lovely Exfoliating Soap 7 oz / 200 g - Exfoliating Soap, Formulated to Fade Dark Spots, with Vitamin C and Hyaluronic Acid",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Nature's Spirit Anti-Frizz Olive Oil Shampoo 12 ounce",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "PrettyDiva Glossy Top Coat - No Wipe Gel Top Coat Shine Top Coat, Supper Shiny Top Coat High Gloss Soak Off Gel Nail Polish Mirror Top Coat - 0.5 Oz",
+      "genres": [],
+      "price": null,
+      "rating": 3
+    }
+  },
+  {
+    "user_id": "AEVFWS7JFEKHYDZKH4SI5YDSNGJQ",
+    "history": [
+      {
+        "title": "Pantene Pro-v Ultimate 10 Bb Conditioner With Pump, 28.9 Fluid Ounce",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Pantene Pro-V Ultimate 10 BB Conditioner - 24 fl oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Taya Beauty Inner Core Hair Strong Anti-Breakage Shampoo & Conditioner Duo - Strengthening and Repairing Formula - Free From Sulfates and Parabens - 8 fl oz Bottles",
+        "genres": [],
+        "price": 48.0,
+        "rating": 4
+      },
+      {
+        "title": "Feather Headbands Hippie Dreamcatcher Head Chains Boho Tribal Feather Headpiece Peacock Feather Hair Band Hair Accessories (E)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Wonder4 Electric Callus Remover - Rechargeable Electric Foot File Callus Shaver Hard Skin Remover Pedicure Tools with 3 in 1 Roller Heads, for Cracked Heels Calluses and Dead Skin",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Zeitun Natural Anti Cellulite Body Scrub - Organic Coffee Body Scrub Exfoliator With Robusta & Dead Sea Salt - Cinnamon, Ginger And Moisturizing Oils, 7 oz",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "DAILY CONCEPTS Daily Slip-On Exfoliator",
+        "genres": [],
+        "price": 17.71,
+        "rating": 4
+      },
+      {
+        "title": "TIANG Facial Steamer, Nano Ionic Mist Face Steamer, Hydrating Mist Sprayer Water Oxygen Injection, Nano Steamer Portable Mist Humidifier, for Face Mini Spa Rejuvenation, Moisturizing Refreshing",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "100% PURE Cocoa Coffee Body Scrub Exfoliating Deep Cleanse with Sea Salts & Nourishing Oils Natural Moisturizing Skincare Radiant Skin Restore & Pore Cleanser for Women & Men Vegan - 10oz",
+        "genres": [],
+        "price": 40.0,
+        "rating": 2
+      }
+    ],
+    "ground_truth": {
+      "title": "8 Sheets Skull Nail Art Stickers 3D Self-Adhesive Acrylic Nail Kit Designs Charms Nail Stickers Heart Skull Snake Black Nail Sticker Designer Nail Art Supplies for Women DIY Nail Decoration",
+      "genres": [],
+      "price": null,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AE7XX43TOI4A3V5473SP3IBR6M5Q",
+    "history": [
+      {
+        "title": "Forever Flawless Diamond Infused Facial Peeling Gel. New & Improved Formula for Best Exfoliation, Microdermabrasion, Purification & Detox for a Flawless, Glowing Skin.",
+        "genres": [],
+        "price": 74.95,
+        "rating": 2
+      },
+      {
+        "title": "Forever Flawless Diamond Infused Facial Peeling Gel. New & Improved Formula for Best Exfoliation, Microdermabrasion, Purification & Detox for a Flawless, Glowing Skin.",
+        "genres": [],
+        "price": 74.95,
+        "rating": 2
+      },
+      {
+        "title": "ibd Advanced Wear Color Duo Full Bluum 1 PK",
+        "genres": [],
+        "price": 14.15,
+        "rating": 5
+      },
+      {
+        "title": "ibd Advanced Wear Color Duo Full Bluum 1 PK",
+        "genres": [],
+        "price": 14.15,
+        "rating": 5
+      },
+      {
+        "title": "ibd Advanced Wear Color Duo I'm No Damsel 1 PK",
+        "genres": [],
+        "price": 12.79,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "ibd Advanced Wear Color Duo I'm No Damsel 1 PK",
+      "genres": [],
+      "price": 12.79,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AHAALBQHRVP7NR6DCVYCXPULAW6Q",
+    "history": [
+      {
+        "title": "AGPtEK Handmade Natural Fashion Long False Eyelashes For Makeup (10 Pairs)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Inn&Co Highest Quality Organic Moringa Oil - 4 fl Oz - 100% Pure, Undiluted, Cold Pressed, And Unrefined - Hexane-Free - 365 Day Guarantee",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "30000RPM Professional Electric Nail File Drill Manicure Pedicure Machine Tool Set Kit Bit Low Noise and Vibration (Black)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "MAISON MARTIN MARGIELA 'REPLICA' Lazy Sunday Morning, Deluze Travel Size.005 oz",
+        "genres": [],
+        "price": 7.99,
+        "rating": 3
+      },
+      {
+        "title": "Pink Gellac 146 Extreme Pink Soak-Off UV/LED Gel Polish",
+        "genres": [],
+        "price": 13.95,
+        "rating": 3
+      },
+      {
+        "title": "False Eyelashes 3D Lashes Pack, Fur Long Lashes Reusable Soft Fake Eyelashes 7 Pairs",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      }
+    ],
+    "ground_truth": {
+      "title": "Dsoar Thick Side Bangs Clip In Real Human Hair Bangs Natural Clip On Side Bangs Straight Fringe Hair Extensions(Blonde/613#)",
+      "genres": [],
+      "price": 21.99,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AF55VSLFXKHYTNWFEI2O3SU7BBVA",
+    "history": [
+      {
+        "title": "One N Only Brazilian Tech Keratin TreatmentLeave-In 8 Ounce (235ml) (2 Pack)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Cherry Flavored Tooth Stain Remover Tooth Polish - Professional Strength - 14 Cups Medium Grit",
+        "genres": [],
+        "price": 6.66,
+        "rating": 5
+      },
+      {
+        "title": "NYX Cosmetics Nude Matte Eye Shadow Haywire",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "3/5\u00a0FULL\u00a0HEAD 22.193\"-#02128",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Proteove Loose Powder - Shimmery Loose Powder for Face and Body Highlighter Makeup, Handle Powder Puff Design, Lightweight & Glowing, Naturally Neutral",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "natura Baby Cologne Relaxing Fragrance Mam\u00e3e e Beb\u00ea",
+      "genres": [],
+      "price": 21.0,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AFUBMCVI5J6G4F2RFQGTDRXLE6VQ",
+    "history": [
+      {
+        "title": "Clip in Hair Extensions - Platinum Blonde - Straight - 18in / 46cm - Full Head - 8 Pcs 120g - Japanese Heat Resistant Synthetic Hairpiece - Looks and Feels like Real Hair",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Elegant Hair - 17\" PONYTAIL Clip in Hair Piece CURLY Platinum Blonde #16/60 REVERSIBLE Claw Clip 220g",
+        "genres": [],
+        "price": 20.99,
+        "rating": 5
+      },
+      {
+        "title": "CAISHA by PRETTYSHOP Hair Donut Up Do Hair Ring Hairstyler Bun Maker Bridal Hairpiece Hair Styling Tool Brown DK2",
+        "genres": [],
+        "price": 8.99,
+        "rating": 3
+      },
+      {
+        "title": "Magnetic Eyelashes False Lashes with Magnets Top and Bottom Magnetic Lashes Resuable Lashes 2 Pair / 8pcs Natural Style",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "ENTRANCED STYLES Straight Black Wig with Bangs for Women Fashion Long Straight Wig Heat Resistant Bangs Synthetic Wig 20 Inch Natural Looking Daily Party Cosplay Wig",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "S-noilite Secret Wire in Human Hair Extensions 100% Real Remy Hair Extension Invisible String 16\" 90g One Piece Double Drawn Fish Line Extensions for Women Gifts #60 Platinum Blonde",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "[DASHING DIVA\u2013Nails with Big Stone]Premium Magic Press Super Slim Fit-Better Than Rose+Twinkle Corsage241/42GMC(2Different Designs 30strips+30strips in 12sizes)",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "BOGSEA Dark Brown Wig with Bangs Long Dark Brown Wigs for Women Long Synthetic Wavy Wigs for Daily Party (24Inch,Dark Brown)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "Long Wavy Lace Front Wigs Synthetic Ombre Brown Wig for Women Natural Wave Heat Resistant Wig for Daily Parties (Mixed Brown Color)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Nnzes Long Wavy Wigs for Black Women Natural Looking Wavy Synthetic Wig Highlight Synthetic Wigs for Women Heat Resistant Fiber Hair for Daily Party Wear (22 inch, Brown)",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      }
+    ],
+    "ground_truth": {
+      "title": "Electric V- Face Shaping Massager - 2022 Best Intelligent Facial Lifting Machine, Micro-Current Double Chin Reducing Massager, 6 Types of Face Beauty Lifting Device",
+      "genres": [],
+      "price": 27.79,
+      "rating": 4
+    }
+  },
+  {
+    "user_id": "AF5IQSGLYMWLW4KH2V7VTUZLHUOA",
+    "history": [
+      {
+        "title": "Face Lift Tapes for Instant Face, Neck and Eye Lift Kit Tape",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Charyeah Bath Pillow Bathtub Spa Pillow With Powerful Gripping Suctions, Comfortable and Soft 2-Panel Cushions for Head, Neck, Back and Shoulder Support,Fits Hot Tub, Jacuzzi, Spas",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Brittanie's Thyme Hyaluronic Acid Serum, 8 oz, 100% Botanical Professional Clinical Strength for Face | Anti-Aging Anti Wrinkles & Hydrating Skincare Treatment",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "SERUM By MERLOT - RESVERATROL - NATURAL ANTI-AGING - DAMAGE CORRECTOR - BOOST COLLAGEN - 1 FL OZ. - DARK CIRCLE CORRECTOR -",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Lesentia Tinted Moisturizer with SPF 31 \u2013 Tinted Moisturizer For Face With Spf and Blemish Concealer with All Natural Ingredients like Shea Butter, Jojoba Oil, Vitamin E and Zinc* (Medium - 2fl oz)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Organic Vitamin C Serum For Face with Hyaluronic Acid - Luxurious Formula Made with Only Natural Organic Ingredients. For Acne, Wrinkles, Fine Lines, Age Spots, Sun Damage (1 oz)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "SELF/ish Mens Face Lotion | Oil-free Facial Moisturizer Made for Men | Anti-Aging | Quick-absorbing Lightweight Cream | Natural Ingredients | 3.4fl oz",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "Bouquet Garni Body Shower White Musk - Unique Fragrance Decanting Engineering Method gives Long Lasting Rich Fragrance - Gentle and Mild Cleansing Scented Body Wash with Natural Surfactant 17.85 Fl Oz",
+        "genres": [],
+        "price": 13.99,
+        "rating": 5
+      },
+      {
+        "title": "EASYDEW Starter Soft Conditioning Face Wash 6.76 fl oz - Soothing and Moisturizing Face Wash with Ceramides, Hydrogen Water & DW-EGF I Deep Pore Cleanser & Hypoallergenic Gentle Makeup Remover",
+        "genres": [],
+        "price": null,
+        "rating": 2
+      },
+      {
+        "title": "Anti Aging Retinol Cream - Anti Wrinkle Hydrating Moisturizer for Face, Neck & D\u00e9collet\u00e9 w/ Hyaluronic Acid - Helps Reduce Appearance of Lines & Wrinkles - Improve Skin Hydration - Pura by SKN - 1 oz",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "SAISZE Jaw Exerciser, Facial Fat Burner Double Chin Reducer Eliminator for Jawline Shaper, Neck Muscle Training Helps Face Slimming for Men Women (Blue)",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      },
+      {
+        "title": "SeroVital Super Saturated Restoring Cleansing Cloths - Cleansing Face Wipes with Green Tea and Hyaluronic Acid - Makeup Remover Wipes - 1 Pack 15 Ct",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "BOOSCA Anti-wrinkle Eye Cream Balance Eye Skin Reduce dark circles and fine lines, improve pores 5ml 2",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Simply Dana Coconut Lip Scrub, Exfoliate and Plump Your Lips, 0.4 oz (12g)",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "TCM Mens Facial Rejuvenation and Restoration Combo",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "FASCY LAB GREEN+ Korean Sunscreen \u2014 SPF 50+PA++++, Daily Facial Sunscreen, Sun Cream With Patented Ingredients, Korean Spf, Korean Sun Cream for Face \u2014 Paraben Free [1 x 1.69 Fl.Oz.]",
+        "genres": [],
+        "price": 24.99,
+        "rating": 5
+      },
+      {
+        "title": "Hygieia + 100% USDA Certified Organic Anti-Aging Face Cream, Plant-Based Moisturizer with Natural Cold Pressed Oils and Beeswax, Certified Vegan and Cruelty-Free Facial Cream, 60ml",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Korean Collagen Firming Mask, Collagen Firming Sleeping Mask, Collagen Protein Firming Anti-Aging Face Mask, Hydrating Face Masks, Portable Wash-Free Sleeping Face Mask for Women & Men (1 Box (20pcs))",
+        "genres": [],
+        "price": 14.99,
+        "rating": 5
+      },
+      {
+        "title": "Purple Shampoo and Conditioner Set - Sulfate Free Salon Grade (2 x 16.9 fl oz) - Hydrating Toner - Shimmer Correction for Platinum Blonde, Silver, Light, and Grey Hair - New Formula",
+        "genres": [],
+        "price": null,
+        "rating": 3
+      }
+    ],
+    "ground_truth": {
+      "title": "ZMCARE Organic Moroccan Black Soap with Pure Argan Oil - Authentic Natural Raw African Beldi Black Soap - Moisturizing Body Wash (7 oz/200 grams) + ZAKIA MIAMI Hammam Kessa Exfoliating Glove - Cleanse, Exfoliate and Moisturize Your Skin",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  },
+  {
+    "user_id": "AESGD7JWLZAPQZLN7NQD3GRPUADA",
+    "history": [
+      {
+        "title": "Kristin Ess The Oversized Satin Scrunchie ? Cheetah",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Marine Forest Eyebrow Stamp Stencil Kit, 2 Colors in 1 Waterproof and Long Lasting One Step Easy Color Brow Stamp with 24 Eyebrow Stencils Shaping Kit Reusable, 1 Brush and 1 Razor",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Eyebrow Stamp and Eyebrow Stencil Kit, One Step Eyebrow Stamp and Shaping Kit for Perfect Brow, Eyebrow Brush,Eyebrow soap kit ,Gel Brow Soap Wax, Eyeshadow Stick Shimmer Eyeshadow Pencil ,Eye Makeup",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "MRTREUP Hair Brush Spray Set With Detangling Wide Tooth Comb And Detanger Brush For Curly Hair With Hair Mist Spray Bottle 10oz Curl Hair Tools For Women Men Black Natural Hair 3a To 4c Hair Types",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Travel Bottles for Toiletries - Autdor 3OZ Travel Size Toiletries Set TSA Approved Travel Containers BPA Free LeakProof Refillable Liquid Travel Accessories for Shampoo Conditioner and Lotion",
+        "genres": [],
+        "price": 13.99,
+        "rating": 5
+      },
+      {
+        "title": "Big Hair Claw Clips for Women and Girls - 4.3 Inch 8 Pcs Matte Claw Hair Clips for Thick Hair, Large Jaw Clips for Thin Hair, 2 Styles Strong Hold Hair Accessories for Girls",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "Glitter Eyeliner Liquid, Liquid Eyeliner Colorful Set, 10 Colors Liquid Glitter Eyeliner, Glitter Liquid Eyeshadow Set, Shimmer Sparkling Neon Eye liners for Women, Glitter Eyeliner Pencil",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "YouClean 300 Antibacterial Travel Hand Soap Sheets - Pocket/Purse/Wallet/Backpack -Great for Outdoor Camping or Daily Use (Tea Party) (Tea Party)",
+        "genres": [],
+        "price": 13.87,
+        "rating": 5
+      },
+      {
+        "title": "Combofix 2Pcs Silk Scrunchies Mulberry Silk Hair Ties Cute Large Scrunchie Elastic Bands Thick Curly Hair Black Brown Ponytail Fixing Hair Tie Suitable for Girls of all ages",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "MRTREUP Chrome Nail Powder Palette , Metallic Mirror Effect Chrome Powder for Nails , Rose Gold Sliver Pink Holographic Nail Glitter Nail Pigment Powder for DIY Salon Nail Art Decorations",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "FantaLook Short Heart Styled Reddish Brown Heat Resistant Wig with Teeth Necklace Earrings for Halloween Party",
+        "genres": [],
+        "price": 24.9,
+        "rating": 5
+      },
+      {
+        "title": "68PCS Sonic Temporary Tattoos Sticker, The Cartoon Hedgehong Tattoos for Party Favor Gift Boy Children Birthday Kids Party Decoration",
+        "genres": [],
+        "price": null,
+        "rating": 5
+      },
+      {
+        "title": "ANGNYA Acrylic Nail Brush\uff0cKolinsky Nail Art Brushes for Acrylic Application\uff0cSize 8 Oval Crimped Sable Acrylic Brush for Professional Manicure DIY Home Salon(Pink)",
+        "genres": [],
+        "price": 9.99,
+        "rating": 1
+      },
+      {
+        "title": "Probeauty Auburn Bouffant Beehive Wig, Long Brown Curly Wave 60s 80s Vintage Party Wig for Halloween costume",
+        "genres": [],
+        "price": null,
+        "rating": 4
+      },
+      {
+        "title": "1PCS Sparkling Crystal Stone Braided Hair Clips, Braided Hair Clips for Women, Rhinestone Hair Clips for Thick Hair, Flower Hair Clip with 3 Small Clips, Hair Barrettes for Women Girls Styling",
+        "genres": [],
+        "price": 6.99,
+        "rating": 5
+      }
+    ],
+    "ground_truth": {
+      "title": "Ice roller",
+      "genres": [],
+      "price": null,
+      "rating": 5
+    }
+  }
+]
