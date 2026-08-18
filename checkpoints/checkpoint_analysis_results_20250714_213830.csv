@@ -1,3 +1,0 @@
-checkpoint,n_users,total_trials,avg_trials_per_user,raw_accuracy_mean,raw_accuracy_std,borda_accuracy_mean,borda_accuracy_se,borda_accuracy_ci
-evaluation_checkpoint_steam_gpt3_3.json,200,4000,20.0,0.2085,0.2090520270171997,0.02,0.009899494936611663,0.01940301007575886
-evaluation_checkpoint_beauty.json,200,4000,20.0,0.09375,0.09459618121256269,0.015,0.008595056718835543,0.016846311168917664

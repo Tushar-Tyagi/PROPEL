@@ -1,2 +1,0 @@
-checkpoint,n_users,total_trials,avg_trials_per_user,raw_accuracy_mean,raw_accuracy_std,borda_accuracy_mean,borda_accuracy_se,borda_accuracy_ci
-evaluation_checkpoint_movielens_trails5.json,200,1000,5.0,0.396,0.40396039409823337,0.39,0.03448912872196107,0.06759869229504369
