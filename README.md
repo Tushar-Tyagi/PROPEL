@@ -7,7 +7,7 @@ Official implementation of **PROPEL** (*PROpensity-based-Position-bias-Eliminati
 
 ---
 
-## 📌 Overview
+## Overview
 
 Large Language Models (LLMs) used for ranking exhibit severe position bias—consistently favoring items presented at the beginning (primacy bias) or end (recency bias) of the prompt, while neglecting items in the middle.
 
@@ -23,7 +23,7 @@ Large Language Models (LLMs) used for ranking exhibit severe position bias—con
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # Clone repository
@@ -45,7 +45,7 @@ export OPENAI_API_KEY="your-api-key"
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### 1. End-to-End Reranking
 
@@ -103,7 +103,7 @@ weights = propensity_model.get_inverse_propensity_weights(N=20)
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 PROPEL/
@@ -143,7 +143,7 @@ PROPEL/
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 pytest tests/ -v
@@ -151,7 +151,7 @@ pytest tests/ -v
 
 ---
 
-## 📄 Citation
+## Citation
 
 ```bibtex
 @article{propel2026,
@@ -164,6 +164,6 @@ pytest tests/ -v
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
